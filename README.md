@@ -5,8 +5,31 @@ Employees sign in with their work email, and each person sees only what their ro
 
 ## Using the app
 
-Open the production URL and sign in with the email and password the Admin gave you.
+Production runs at https://fde-erp-eight.vercel.app.
+Sign in with the email and password the Admin gave you.
 The Admin creates every login from Login accounts.
+
+This is a learning system, and every demo login below uses the password `test12345`.
+
+| Role | Login |
+| --- | --- |
+| Admin and Managing Director | thanakorn.s@apro.co.th |
+| Admin without a team | surasak.r@apro.co.th |
+| Management, not Admin | anan.s@apro.co.th |
+| Sales Manager | sasithorn.k@apro.co.th |
+| Sales rep | somchai.y@apro.co.th |
+| Second sales rep | ekkachai.y@apro.co.th |
+| Purchasing Manager | jiraporn.t@apro.co.th |
+| Buyer | phongsakorn.n@apro.co.th |
+| Warehouse Manager | wichai.y@apro.co.th |
+| Warehouse staff | chaiwat.w@apro.co.th |
+| Finance Manager | narong.wo@apro.co.th |
+| Finance officer | sompong.s@apro.co.th |
+| HR Manager | anan.so@apro.co.th |
+| HR officer | narong.so@apro.co.th |
+| Employee with no business area (IT) | chaiwat.l@apro.co.th |
+
+The [manual test plan](docs/manual-test-plan.md) walks through every workshop step by step with these logins, including what each role must be refused.
 
 | Area | What you can do | Who can use it |
 | --- | --- | --- |
@@ -47,8 +70,9 @@ npm run build
 
 ## Database
 
-All tables live in Supabase Postgres, and the browser has no direct table access.
-Every read and write goes through a security definer function in `supabase/migrations/` that checks the signed-in employee's department and reporting line first.
+All tables live in Supabase Postgres.
+The browser has no direct table access except the salary columns of `employees`, where a row level security policy returns your own row and every row only to HR.
+Every other read and write goes through a security definer function in `supabase/migrations/` that checks the signed-in employee's department and reporting line first.
 Apply migrations with `supabase db push --remote` and never edit a migration that has already been applied; add a new one instead.
 
 ## Operations
