@@ -1,0 +1,8 @@
+project_id = "fde_erp"
+
+[auth]
+enable_signup = false
+
+[auth.email]
+enable_confirmations = true
+double_confirm_changes = true

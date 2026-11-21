@@ -1,66 +1,55 @@
-import { deleteLogin, updateLogin } from "@/app/admin/actions";
+import { updateLogin } from "@/app/admin/actions";
+import {
+  controlClass,
+  RecordDetails,
+  SubmitButton,
+  secondaryButtonClass,
+} from "@/src/components/ui";
 import type { Account } from "@/src/types/account";
-
-const inputClass =
-  "h-11 w-full rounded-lg border border-[#d8e1d9] bg-white px-3 text-sm text-[#253b2e] focus:border-[#438762] focus:outline-none focus:ring-2 focus:ring-[#d8eadb]";
+import { DeleteAccountDialog } from "./DeleteAccountDialog";
 
 export function AccountRow({ account }: { account: Account }) {
-  const formId = `account-${account.id}`;
   const accountName = account.email || account.id;
-
   return (
-    <tr className="border-t border-[#e7ece7] align-middle hover:bg-[#f8faf8]">
-      <td className="px-5 py-4">
-        <input
-          aria-label={`Employee email for ${accountName}`}
-          className={inputClass}
-          defaultValue={account.email}
-          form={formId}
-          name="email"
-          required
-          type="email"
-        />
-      </td>
-      <td className="px-4 py-4">
-        <input
-          aria-label={`New password for ${accountName}`}
-          autoComplete="new-password"
-          className={inputClass}
-          form={formId}
-          minLength={6}
-          name="password"
-          type="password"
-        />
-      </td>
-      <td className="px-4 py-4 text-right">
-        <form action={updateLogin} id={formId}>
+    <RecordDetails title={accountName}>
+      <div className="flex flex-wrap items-end justify-between gap-5">
+        <form
+          action={updateLogin}
+          className="grid min-w-0 flex-1 basis-full items-end gap-4 md:grid-cols-2 xl:basis-auto xl:grid-cols-[minmax(0,1fr)_minmax(0,1fr)_auto]"
+        >
           <input name="id" type="hidden" value={account.id} />
-          <button
-            aria-label={`Save changes for ${accountName}`}
-            className="min-h-11 rounded-lg bg-[#285e45] px-4 text-sm font-semibold text-white hover:bg-[#1d4b36] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#285e45]"
-            type="submit"
-          >
-            Save
-          </button>
-        </form>
-      </td>
-      <td className="px-5 py-4">
-        <details className="text-sm">
-          <summary className="cursor-pointer font-semibold text-[#8f3f26]">
-            Delete
-          </summary>
-          <form action={deleteLogin} className="mt-3 space-y-3">
-            <input name="id" type="hidden" value={account.id} />
-            <p>Delete the login for {accountName}?</p>
-            <button
-              className="min-h-11 rounded-lg border border-[#b76045] px-4 text-sm font-semibold text-[#8f3f26] hover:bg-[#fff3ee]"
-              type="submit"
+          <label className="grid gap-2 text-sm font-medium">
+            <span>Employee email</span>
+            <input
+              className={controlClass}
+              defaultValue={account.email}
+              name="email"
+              required
+              type="email"
+            />
+          </label>
+          <label className="grid gap-2 text-sm font-medium">
+            <span>New password (optional)</span>
+            <input
+              autoComplete="new-password"
+              className={controlClass}
+              minLength={6}
+              name="password"
+              type="password"
+            />
+          </label>
+          <div>
+            <SubmitButton
+              className={secondaryButtonClass}
+              label={`Save changes for ${accountName}`}
+              pendingLabel="Saving changes"
             >
-              Confirm delete
-            </button>
-          </form>
-        </details>
-      </td>
-    </tr>
+              Save changes
+            </SubmitButton>
+          </div>
+        </form>
+        <DeleteAccountDialog accountId={account.id} email={accountName} />
+      </div>
+    </RecordDetails>
   );
 }

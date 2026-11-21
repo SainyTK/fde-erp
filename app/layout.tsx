@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { TestModeGuide } from "@/src/components/guide";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -12,10 +11,7 @@ export default function RootLayout({
 }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en">
-      <body>
-        {children}
-        <TestModeGuide />
-      </body>
+      <body>{children}</body>
     </html>
   );
 }

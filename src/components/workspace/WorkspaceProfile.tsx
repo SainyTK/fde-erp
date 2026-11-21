@@ -1,4 +1,7 @@
+import { ContactRound } from "lucide-react";
+import { PanelHeading, panelClass } from "@/src/components/ui";
 import type { Workspace } from "@/src/types/workspace";
+import { formatSalary } from "@/src/utils/formatSalary";
 
 export function WorkspaceProfile({
   employee,
@@ -7,30 +10,23 @@ export function WorkspaceProfile({
   const details = [
     ["Employee code", employee.employee_code],
     ["Email", employee.email],
-    ["Job title", employee.job_title],
     ["Department", employee.department_name],
     ["Reporting manager", employee.manager_name || "None"],
-    [
-      "Monthly salary",
-      employee.monthly_salary == null
-        ? null
-        : new Intl.NumberFormat().format(employee.monthly_salary),
-    ],
-    ["Roles", roles.length ? roles.join(", ") : null],
+    ["Monthly salary", formatSalary(employee.monthly_salary)],
+    ["Roles", roles.length ? roles.join(", ") : "None"],
   ];
   return (
-    <section
-      aria-labelledby="profile-title"
-      className="rounded-2xl border border-[#dce5dd] bg-white p-6 sm:p-8"
-    >
-      <h2 className="text-xl font-semibold" id="profile-title">
-        Your profile
-      </h2>
-      <dl className="mt-6 grid gap-x-8 gap-y-6 sm:grid-cols-2 lg:grid-cols-3">
+    <section aria-labelledby="profile-title" className={panelClass}>
+      <PanelHeading
+        icon={ContactRound}
+        id="profile-title"
+        title="Your profile"
+      />
+      <dl className="grid gap-x-6 gap-y-5 px-4 py-5 min-[360px]:grid-cols-2 sm:px-6">
         {details.map(([label, value]) => (
-          <div key={label}>
-            <dt className="text-sm text-[#66756b]">{label}</dt>
-            <dd className="mt-1 text-sm font-semibold break-words text-[#253b2e]">
+          <div className="min-w-0" key={label}>
+            <dt className="text-muted text-sm">{label}</dt>
+            <dd className="mt-1 font-medium [overflow-wrap:anywhere] tabular-nums">
               {value || "Not available"}
             </dd>
           </div>

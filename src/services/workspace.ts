@@ -1,20 +1,32 @@
-import { createSupabaseServerClient } from "@/src/lib/supabase";
-import type { Workspace } from "@/src/types/workspace";
+import "server-only";
 
-export async function getWorkspace(): Promise<
-  { workspace: Workspace; error: false } | { workspace: null; error: true }
-> {
-  const supabase = await createSupabaseServerClient();
-  const { data, error } = await supabase.rpc("employee_workspace");
+import { createSupabaseServerClient } from "@/src/lib/supabase";
+import type { Workspace, WorkspaceDetails } from "@/src/types/workspace";
+import { getOwnSalary, getSalaryDirectory } from "./salary";
+
+export async function getWorkspace(): Promise<Workspace | null> {
+  const client = await createSupabaseServerClient();
+  const { data, error } = await client.rpc("employee_workspace");
   if (
     error ||
-    !data ||
-    !data.employee ||
+    !data?.employee ||
     !Array.isArray(data.roles) ||
-    !Array.isArray(data.subordinates) ||
-    !Array.isArray(data.employees)
+    !Array.isArray(data.subordinates)
   ) {
-    return { workspace: null, error: true };
+    return null;
   }
-  return { workspace: data as Workspace, error: false };
+  const details = data as WorkspaceDetails;
+  try {
+    const [salary, employees] = await Promise.all([
+      getOwnSalary(client, details.employee.employee_id),
+      details.roles.includes("HR") ? getSalaryDirectory(client) : [],
+    ]);
+    return {
+      ...details,
+      employee: { ...details.employee, monthly_salary: salary },
+      employees,
+    };
+  } catch {
+    return null;
+  }
 }

@@ -1,6 +1,7 @@
 import "server-only";
 
 import { createSupabaseServerClient } from "@/src/lib/supabase";
+import { AdminAccessError } from "@/src/services/admin";
 import type {
   EmployeeSettingsData,
   EmployeeSettingsUpdate,
@@ -9,6 +10,9 @@ import type {
 export async function getEmployeeSettings(): Promise<EmployeeSettingsData> {
   const client = await createSupabaseServerClient();
   const { data, error } = await client.rpc("admin_employee_settings");
+  if (error?.code === "42501") {
+    throw new AdminAccessError();
+  }
   if (error || !data) {
     throw error ?? new Error("Employee settings unavailable");
   }
