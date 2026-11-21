@@ -1,10 +1,6 @@
 @import "tailwindcss";
-@source "./page.tsx";
-@source "./check-email/page.tsx";
-@source "./verify-email/page.tsx";
-@source "../src/components/auth/AuthForm.tsx";
-@source "../src/components/auth/AuthShell.tsx";
-@source "../src/components/guide/TestModeGuide.tsx";
+@source "./**/*.{ts,tsx}";
+@source "../src/**/*.{ts,tsx}";
 
 :root {
   color-scheme: light;
