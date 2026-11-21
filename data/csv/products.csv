@@ -1,0 +1,221 @@
+product_id,sku,name,brand,category_id,uom,standard_cost,list_price,primary_supplier_id,created_date,discontinued_date,is_active
+1,BLDG-0001,BuildPro Gypsum Board 120x240 12mm,BuildPro,7,SHEET,220.2,325.0,21,2026-06-20,,1
+2,BLDG-0002,StrongWall Gypsum Board 120x240 12mm,StrongWall,7,SHEET,219.48,340.0,21,2018-10-07,,1
+3,BLDG-0003,Thai Cement Gypsum Board 120x240 12mm,Thai Cement,7,SHEET,245.56,345.0,7,2018-08-22,,1
+4,BLDG-0004,BuildPro Gypsum Board 120x240 9mm,BuildPro,7,SHEET,184.53,295.0,7,2024-03-20,,1
+5,BLDG-0005,StrongWall Gypsum Board 120x240 9mm,StrongWall,7,SHEET,169.12,275.0,7,2018-09-11,,1
+6,BLDG-0006,Thai Cement Gypsum Board 120x240 9mm,Thai Cement,7,SHEET,200.04,300.0,21,2022-11-29,,1
+7,BLDG-0007,BuildPro Portland Cement 50kg Mortar,BuildPro,7,BAG,221.04,345.0,28,2018-08-03,,1
+8,BLDG-0008,StrongWall Portland Cement 50kg Mortar,StrongWall,7,BAG,214.45,325.0,28,2019-09-08,,1
+9,BLDG-0009,Thai Cement Portland Cement 50kg Mortar,Thai Cement,7,BAG,184.42,285.0,7,2026-02-20,,1
+10,BLDG-0010,BuildPro Portland Cement 50kg Type 1,BuildPro,7,BAG,156.53,265.0,21,2022-01-25,,1
+11,BLDG-0011,Thai Cement Portland Cement 50kg Type 1,Thai Cement,7,BAG,143.91,215.0,7,2025-05-14,,1
+12,BLDG-0012,BuildPro Silicone Sealant Clear,BuildPro,7,TUBE,85.08,115.0,14,2022-03-24,,1
+13,BLDG-0013,StrongWall Silicone Sealant Clear,StrongWall,7,TUBE,79.98,125.0,14,2020-08-30,,1
+14,BLDG-0014,Thai Cement Silicone Sealant Clear,Thai Cement,7,TUBE,83.68,115.0,28,2023-04-06,,1
+15,BLDG-0015,BuildPro Silicone Sealant White,BuildPro,7,TUBE,118.4,160.0,21,2023-12-01,,1
+16,BLDG-0016,StrongWall Silicone Sealant White,StrongWall,7,TUBE,106.74,160.0,14,2019-02-25,,1
+17,BLDG-0017,Thai Cement Silicone Sealant White,Thai Cement,7,TUBE,108.4,180.0,28,2020-06-28,,1
+18,BLDG-0018,BuildPro Tile Adhesive 20kg Premium,BuildPro,7,BAG,284.65,400.0,21,2022-03-16,,1
+19,BLDG-0019,StrongWall Tile Adhesive 20kg Premium,StrongWall,7,BAG,305.92,410.0,7,2023-04-20,,1
+20,BLDG-0020,Thai Cement Tile Adhesive 20kg Premium,Thai Cement,7,BAG,310.75,500.0,7,2023-12-02,,1
+21,BLDG-0021,BuildPro Tile Adhesive 20kg Standard,BuildPro,7,BAG,241.08,360.0,21,2019-03-31,,1
+22,BLDG-0022,StrongWall Tile Adhesive 20kg Standard,StrongWall,7,BAG,262.32,360.0,21,2026-01-27,,1
+23,BLDG-0023,Thai Cement Tile Adhesive 20kg Standard,Thai Cement,7,BAG,238.03,405.0,28,2024-02-07,,1
+24,BLDG-0024,BuildPro Waterproofing Membrane 4kg Grey,BuildPro,7,CAN,586.81,770.0,7,2018-03-08,,1
+25,BLDG-0025,StrongWall Waterproofing Membrane 4kg Grey,StrongWall,7,CAN,682.97,970.0,28,2018-07-01,,1
+26,BLDG-0026,Thai Cement Waterproofing Membrane 4kg Grey,Thai Cement,7,CAN,663.7,1065.0,7,2019-07-07,,1
+27,BLDG-0027,StrongWall Waterproofing Membrane 4kg White,StrongWall,7,CAN,865.97,1120.0,7,2024-02-03,,1
+28,BLDG-0028,Thai Cement Waterproofing Membrane 4kg White,Thai Cement,7,CAN,873.95,1265.0,7,2022-02-16,,1
+29,ELEC-0001,Lumina Circuit Breaker 16A,Lumina,1,PCS,164.23,215.0,1,2023-10-28,,1
+30,ELEC-0002,Siam Electric Circuit Breaker 16A,Siam Electric,1,PCS,189.57,265.0,18,2025-11-29,,1
+31,ELEC-0003,Lumina Circuit Breaker 32A,Lumina,1,PCS,249.58,365.0,1,2021-12-15,,1
+32,ELEC-0004,Siam Electric Circuit Breaker 32A,Siam Electric,1,PCS,229.59,310.0,22,2019-10-18,,1
+33,ELEC-0005,Volta Circuit Breaker 32A,Volta,1,PCS,244.59,370.0,22,2022-01-23,,1
+34,ELEC-0006,Lumina Circuit Breaker 63A,Lumina,1,PCS,307.71,435.0,15,2023-12-09,,1
+35,ELEC-0007,Siam Electric Circuit Breaker 63A,Siam Electric,1,PCS,316.97,510.0,22,2024-04-19,,1
+36,ELEC-0008,Volta Circuit Breaker 63A,Volta,1,PCS,298.63,470.0,22,2023-01-26,,1
+37,ELEC-0009,Lumina LED Bulb 13W,Lumina,1,PCS,66.26,110.0,8,2021-04-04,,1
+38,ELEC-0010,Siam Electric LED Bulb 13W,Siam Electric,1,PCS,66.47,92.0,22,2020-04-03,,1
+39,ELEC-0011,Lumina LED Bulb 18W,Lumina,1,PCS,93.75,135.0,15,2018-12-20,,1
+40,ELEC-0012,Volta LED Bulb 18W,Volta,1,PCS,86.73,135.0,15,2025-12-21,,1
+41,ELEC-0013,Lumina LED Bulb 9W,Lumina,1,PCS,57.91,96.0,8,2019-06-13,,1
+42,ELEC-0014,Siam Electric LED Bulb 9W,Siam Electric,1,PCS,53.36,89.0,15,2020-07-12,,1
+43,ELEC-0015,Volta LED Bulb 9W,Volta,1,PCS,52.37,71.0,22,2019-01-18,,1
+44,ELEC-0016,Lumina LED Panel Light 12W,Lumina,1,PCS,283.88,375.0,15,2024-04-27,2025-04-30,0
+45,ELEC-0017,Siam Electric LED Panel Light 12W,Siam Electric,1,PCS,307.57,475.0,18,2018-05-05,,1
+46,ELEC-0018,Volta LED Panel Light 12W,Volta,1,PCS,287.61,375.0,18,2023-02-01,,1
+47,ELEC-0019,Lumina LED Panel Light 18W,Lumina,1,PCS,411.62,675.0,15,2021-07-31,,1
+48,ELEC-0020,Siam Electric LED Panel Light 18W,Siam Electric,1,PCS,347.53,480.0,18,2019-05-17,,1
+49,ELEC-0021,Volta LED Panel Light 18W,Volta,1,PCS,402.96,675.0,22,2019-10-17,,1
+50,ELEC-0022,Lumina LED Panel Light 24W,Lumina,1,PCS,483.86,640.0,8,2021-06-17,,1
+51,ELEC-0023,Siam Electric LED Panel Light 24W,Siam Electric,1,PCS,511.18,785.0,15,2026-06-21,,1
+52,ELEC-0024,Volta LED Panel Light 24W,Volta,1,PCS,430.79,690.0,22,2020-12-19,,1
+53,ELEC-0025,"Lumina PVC Conduit 2.9m 1/2""",Lumina,1,LEN,33.07,53.0,22,2022-05-02,,1
+54,ELEC-0026,"Siam Electric PVC Conduit 2.9m 1/2""",Siam Electric,1,LEN,35.31,48.0,1,2022-02-06,,1
+55,ELEC-0027,"Volta PVC Conduit 2.9m 1/2""",Volta,1,LEN,36.63,61.0,22,2023-10-13,,1
+56,ELEC-0028,"Lumina PVC Conduit 2.9m 3/4""",Lumina,1,LEN,44.7,71.0,15,2023-09-19,,1
+57,ELEC-0029,"Siam Electric PVC Conduit 2.9m 3/4""",Siam Electric,1,LEN,47.97,76.0,18,2021-06-14,,1
+58,ELEC-0030,"Volta PVC Conduit 2.9m 3/4""",Volta,1,LEN,50.52,80.0,22,2024-06-27,,1
+59,ELEC-0031,Lumina Power Outlet Double,Lumina,1,PCS,86.97,120.0,18,2020-09-19,2025-07-22,0
+60,ELEC-0032,Siam Electric Power Outlet Double,Siam Electric,1,PCS,79.95,125.0,18,2023-04-16,,1
+61,ELEC-0033,Volta Power Outlet Double,Volta,1,PCS,86.9,125.0,15,2023-02-26,,1
+62,ELEC-0034,Lumina Power Outlet Single,Lumina,1,PCS,62.27,105.0,15,2024-04-04,,1
+63,ELEC-0035,Siam Electric Power Outlet Single,Siam Electric,1,PCS,63.37,100.0,22,2024-04-14,,1
+64,ELEC-0036,Volta Power Outlet Single,Volta,1,PCS,56.48,83.0,18,2018-11-20,,1
+65,ELEC-0037,Siam Electric Power Outlet with USB,Siam Electric,1,PCS,104.02,160.0,22,2021-01-17,,1
+66,ELEC-0038,Volta Power Outlet with USB,Volta,1,PCS,100.11,130.0,22,2021-09-14,,1
+67,ELEC-0039,Lumina THW Electrical Wire 100m 1.5 sq.mm,Lumina,1,ROLL,737.86,1035.0,18,2020-03-27,,1
+68,ELEC-0040,Siam Electric THW Electrical Wire 100m 1.5 sq.mm,Siam Electric,1,ROLL,769.35,1040.0,15,2018-06-02,,1
+69,ELEC-0041,Volta THW Electrical Wire 100m 1.5 sq.mm,Volta,1,ROLL,767.32,985.0,15,2021-03-31,,1
+70,ELEC-0042,Lumina THW Electrical Wire 100m 2.5 sq.mm,Lumina,1,ROLL,981.04,1335.0,18,2023-08-28,,1
+71,ELEC-0043,Siam Electric THW Electrical Wire 100m 2.5 sq.mm,Siam Electric,1,ROLL,954.6,1540.0,8,2026-01-11,,1
+72,ELEC-0044,Volta THW Electrical Wire 100m 2.5 sq.mm,Volta,1,ROLL,998.48,1315.0,8,2022-10-18,,1
+73,ELEC-0045,Lumina THW Electrical Wire 100m 4 sq.mm,Lumina,1,ROLL,1266.44,1745.0,15,2026-02-27,,1
+74,ELEC-0046,Siam Electric THW Electrical Wire 100m 4 sq.mm,Siam Electric,1,ROLL,1235.81,1615.0,1,2022-01-12,,1
+75,ELEC-0047,Volta THW Electrical Wire 100m 4 sq.mm,Volta,1,ROLL,1142.45,1565.0,8,2022-02-14,,1
+76,FAST-0001,BoltPro Anchor Bolt M10,BoltPro,4,PCS,13.75,22.0,25,2024-01-11,,1
+77,FAST-0002,SureGrip Anchor Bolt M10,SureGrip,4,PCS,16.11,21.0,25,2025-05-25,,1
+78,FAST-0003,SureGrip Anchor Bolt M12,SureGrip,4,PCS,18.22,25.0,25,2022-12-15,,1
+79,FAST-0004,BoltPro Anchor Bolt M6,BoltPro,4,PCS,10.41,13.5,4,2022-08-29,,1
+80,FAST-0005,SureGrip Anchor Bolt M6,SureGrip,4,PCS,10.43,15.25,4,2024-06-26,,1
+81,FAST-0006,BoltPro Anchor Bolt M8,BoltPro,4,PCS,12.04,20.0,17,2022-09-18,,1
+82,FAST-0007,SureGrip Anchor Bolt M8,SureGrip,4,PCS,13.13,22.0,18,2024-01-18,,1
+83,FAST-0008,BoltPro Blind Rivet Box 500pc 3.2mm,BoltPro,4,BOX,169.14,285.0,18,2018-01-15,,1
+84,FAST-0009,SureGrip Blind Rivet Box 500pc 3.2mm,SureGrip,4,BOX,165.48,225.0,4,2021-11-18,,1
+85,FAST-0010,SureGrip Blind Rivet Box 500pc 4mm,SureGrip,4,BOX,207.85,270.0,4,2018-03-06,,1
+86,FAST-0011,BoltPro Hex Bolt & Nut M10,BoltPro,4,PCS,8.54,14.5,25,2018-08-20,,1
+87,FAST-0012,SureGrip Hex Bolt & Nut M10,SureGrip,4,PCS,8.35,13.75,18,2021-08-06,,1
+88,FAST-0013,BoltPro Hex Bolt & Nut M12,BoltPro,4,PCS,9.14,13.25,18,2019-12-19,,1
+89,FAST-0014,SureGrip Hex Bolt & Nut M12,SureGrip,4,PCS,8.9,12.0,11,2019-09-04,,1
+90,FAST-0015,BoltPro Hex Bolt & Nut M8,BoltPro,4,PCS,6.14,10.25,11,2018-08-25,,1
+91,FAST-0016,SureGrip Hex Bolt & Nut M8,SureGrip,4,PCS,6.25,10.25,11,2026-05-06,,1
+92,FAST-0017,"BoltPro Steel Nail 1kg 1""",BoltPro,4,KG,38.9,53.0,25,2018-06-11,,1
+93,FAST-0018,"SureGrip Steel Nail 1kg 1""",SureGrip,4,KG,41.38,53.0,4,2021-05-26,,1
+94,FAST-0019,"BoltPro Steel Nail 1kg 2""",BoltPro,4,KG,47.17,65.0,18,2020-04-17,,1
+95,FAST-0020,"SureGrip Steel Nail 1kg 2""",SureGrip,4,KG,54.1,80.0,17,2023-10-02,,1
+96,FAST-0021,"BoltPro Steel Nail 1kg 3""",BoltPro,4,KG,65.46,105.0,25,2024-04-23,,1
+97,FAST-0022,"SureGrip Steel Nail 1kg 3""",SureGrip,4,KG,56.11,85.0,17,2021-09-13,,1
+98,FAST-0023,BoltPro Wood Screw Box 100pc #10,BoltPro,4,BOX,117.66,185.0,25,2023-07-03,,1
+99,FAST-0024,SureGrip Wood Screw Box 100pc #10,SureGrip,4,BOX,119.99,195.0,4,2018-08-29,,1
+100,FAST-0025,SureGrip Wood Screw Box 100pc #6,SureGrip,4,BOX,66.38,89.0,4,2020-08-05,,1
+101,FAST-0026,BoltPro Wood Screw Box 100pc #8,BoltPro,4,BOX,82.77,105.0,4,2023-06-03,,1
+102,FAST-0027,SureGrip Wood Screw Box 100pc #8,SureGrip,4,BOX,97.43,155.0,18,2018-03-12,,1
+103,PAINT-0001,ColorMax Exterior Acrylic Paint 1 Gallon,ColorMax,5,CAN,2249.98,3255.0,22,2021-12-22,,1
+104,PAINT-0002,Duracoat Exterior Acrylic Paint 1 Gallon,Duracoat,5,CAN,2165.82,3555.0,12,2018-11-27,,1
+105,PAINT-0003,Siam Paint Exterior Acrylic Paint 1 Gallon,Siam Paint,5,CAN,2032.32,3325.0,12,2019-12-03,,1
+106,PAINT-0004,ColorMax Exterior Acrylic Paint 5 Gallon,ColorMax,5,CAN,2499.9,3495.0,22,2018-11-01,,1
+107,PAINT-0005,Duracoat Exterior Acrylic Paint 5 Gallon,Duracoat,5,CAN,2470.09,3900.0,26,2019-08-14,,1
+108,PAINT-0006,Siam Paint Exterior Acrylic Paint 5 Gallon,Siam Paint,5,CAN,2639.74,4215.0,26,2024-01-24,,1
+109,PAINT-0007,Duracoat Interior Emulsion Paint 1 Gallon,Duracoat,5,CAN,907.9,1455.0,12,2018-11-08,,1
+110,PAINT-0008,Siam Paint Interior Emulsion Paint 1 Gallon,Siam Paint,5,CAN,774.75,1170.0,26,2023-07-03,,1
+111,PAINT-0009,ColorMax Interior Emulsion Paint 5 Gallon,ColorMax,5,CAN,1015.6,1335.0,26,2020-10-06,,1
+112,PAINT-0010,Duracoat Interior Emulsion Paint 5 Gallon,Duracoat,5,CAN,1132.78,1660.0,5,2019-01-10,2026-02-10,0
+113,PAINT-0011,Siam Paint Interior Emulsion Paint 5 Gallon,Siam Paint,5,CAN,1085.27,1430.0,12,2022-07-30,,1
+114,PAINT-0012,"ColorMax Paint Roller 10""",ColorMax,5,PCS,155.47,265.0,19,2024-04-10,,1
+115,PAINT-0013,"Duracoat Paint Roller 10""",Duracoat,5,PCS,139.02,205.0,5,2019-08-21,,1
+116,PAINT-0014,"Siam Paint Paint Roller 10""",Siam Paint,5,PCS,137.9,195.0,22,2023-02-19,,1
+117,PAINT-0015,"ColorMax Paint Roller 4""",ColorMax,5,PCS,100.41,165.0,12,2022-10-30,,1
+118,PAINT-0016,"Duracoat Paint Roller 4""",Duracoat,5,PCS,110.13,185.0,19,2019-12-29,,1
+119,PAINT-0017,"Siam Paint Paint Roller 4""",Siam Paint,5,PCS,113.21,170.0,26,2022-02-04,,1
+120,PAINT-0018,ColorMax Paint Thinner 1L,ColorMax,5,CAN,83.3,135.0,26,2018-10-11,,1
+121,PAINT-0019,Duracoat Paint Thinner 1L,Duracoat,5,CAN,89.3,115.0,19,2022-09-30,,1
+122,PAINT-0020,Siam Paint Paint Thinner 1L,Siam Paint,5,CAN,96.39,155.0,11,2022-09-10,,1
+123,PAINT-0021,ColorMax Paint Thinner 5L,ColorMax,5,CAN,120.96,175.0,26,2020-10-13,,1
+124,PAINT-0022,Duracoat Paint Thinner 5L,Duracoat,5,CAN,119.43,160.0,22,2022-10-30,,1
+125,PAINT-0023,Siam Paint Paint Thinner 5L,Siam Paint,5,CAN,120.47,190.0,26,2022-05-22,,1
+126,PAINT-0024,ColorMax Primer 1 Gallon,ColorMax,5,CAN,822.88,1380.0,26,2018-12-18,,1
+127,PAINT-0025,Duracoat Primer 1 Gallon,Duracoat,5,CAN,759.94,1195.0,26,2019-02-04,,1
+128,PAINT-0026,Siam Paint Primer 1 Gallon,Siam Paint,5,CAN,913.98,1380.0,19,2020-09-26,,1
+129,PAINT-0027,ColorMax Primer 5 Gallon,ColorMax,5,CAN,1061.55,1690.0,22,2022-11-06,,1
+130,PAINT-0028,Siam Paint Primer 5 Gallon,Siam Paint,5,CAN,1077.43,1740.0,5,2018-09-14,,1
+131,PLMB-0001,AquaFlow Automatic Water Pump 150W,AquaFlow,2,UNIT,3829.06,5405.0,2,2023-12-02,,1
+132,PLMB-0002,HydroMax Automatic Water Pump 150W,HydroMax,2,UNIT,3618.11,5530.0,9,2021-05-03,,1
+133,PLMB-0003,Thai Pipe Automatic Water Pump 150W,Thai Pipe,2,UNIT,4144.36,6345.0,12,2023-09-24,,1
+134,PLMB-0004,AquaFlow Automatic Water Pump 250W,AquaFlow,2,UNIT,5373.2,7985.0,9,2019-12-11,,1
+135,PLMB-0005,HydroMax Automatic Water Pump 250W,HydroMax,2,UNIT,4683.19,7600.0,16,2023-06-08,,1
+136,PLMB-0006,Thai Pipe Automatic Water Pump 250W,Thai Pipe,2,UNIT,5059.6,6650.0,12,2022-12-24,,1
+137,PLMB-0007,HydroMax Automatic Water Pump 350W,HydroMax,2,UNIT,6331.56,8405.0,9,2023-07-22,,1
+138,PLMB-0008,"AquaFlow Brass Ball Valve 1""",AquaFlow,2,PCS,196.52,335.0,9,2022-12-13,,1
+139,PLMB-0009,"HydroMax Brass Ball Valve 1""",HydroMax,2,PCS,187.57,250.0,9,2022-12-04,,1
+140,PLMB-0010,"Thai Pipe Brass Ball Valve 1""",Thai Pipe,2,PCS,176.8,235.0,2,2022-10-20,,1
+141,PLMB-0011,"AquaFlow Brass Ball Valve 1/2""",AquaFlow,2,PCS,117.69,185.0,23,2019-11-21,,1
+142,PLMB-0012,"Thai Pipe Brass Ball Valve 1/2""",Thai Pipe,2,PCS,112.78,170.0,9,2022-05-28,,1
+143,PLMB-0013,"AquaFlow Brass Ball Valve 3/4""",AquaFlow,2,PCS,139.07,205.0,2,2022-02-20,,1
+144,PLMB-0014,"HydroMax Brass Ball Valve 3/4""",HydroMax,2,PCS,166.57,270.0,9,2022-01-07,,1
+145,PLMB-0015,"Thai Pipe Brass Ball Valve 3/4""",Thai Pipe,2,PCS,163.59,250.0,2,2024-02-20,,1
+146,PLMB-0016,AquaFlow Kitchen Faucet Pull-out,AquaFlow,2,PCS,813.48,1125.0,9,2019-01-18,,1
+147,PLMB-0017,HydroMax Kitchen Faucet Pull-out,HydroMax,2,PCS,788.92,1010.0,16,2019-01-09,,1
+148,PLMB-0018,AquaFlow Kitchen Faucet Standard,AquaFlow,2,PCS,529.54,860.0,9,2026-01-17,,1
+149,PLMB-0019,HydroMax Kitchen Faucet Standard,HydroMax,2,PCS,512.55,680.0,12,2025-05-15,,1
+150,PLMB-0020,Thai Pipe Kitchen Faucet Standard,Thai Pipe,2,PCS,534.89,810.0,12,2019-08-09,,1
+151,PLMB-0021,AquaFlow Kitchen Faucet Swivel,AquaFlow,2,PCS,642.74,940.0,9,2022-08-14,,1
+152,PLMB-0022,HydroMax Kitchen Faucet Swivel,HydroMax,2,PCS,635.86,850.0,12,2022-10-25,,1
+153,PLMB-0023,Thai Pipe Kitchen Faucet Swivel,Thai Pipe,2,PCS,723.28,1125.0,16,2018-04-20,,1
+154,PLMB-0024,"AquaFlow PVC Elbow 90 1""",AquaFlow,2,PCS,8.46,11.25,23,2020-09-07,,1
+155,PLMB-0025,"Thai Pipe PVC Elbow 90 1""",Thai Pipe,2,PCS,7.83,11.75,2,2024-05-17,,1
+156,PLMB-0026,"AquaFlow PVC Elbow 90 1/2""",AquaFlow,2,PCS,5.2,7.5,9,2022-08-29,,1
+157,PLMB-0027,"HydroMax PVC Elbow 90 1/2""",HydroMax,2,PCS,5.47,7.25,2,2020-04-12,,1
+158,PLMB-0028,"Thai Pipe PVC Elbow 90 1/2""",Thai Pipe,2,PCS,5.23,7.0,23,2020-09-04,,1
+159,PLMB-0029,"AquaFlow PVC Elbow 90 3/4""",AquaFlow,2,PCS,6.27,9.75,23,2025-06-20,,1
+160,PLMB-0030,"HydroMax PVC Elbow 90 3/4""",HydroMax,2,PCS,7.21,11.5,2,2022-03-04,,1
+161,PLMB-0031,"HydroMax PVC Pipe Class 8.5 4m 1""",HydroMax,2,LEN,174.29,265.0,12,2020-12-13,,1
+162,PLMB-0032,"AquaFlow PVC Pipe Class 8.5 4m 1/2""",AquaFlow,2,LEN,125.72,165.0,2,2024-06-08,,1
+163,PLMB-0033,"Thai Pipe PVC Pipe Class 8.5 4m 1/2""",Thai Pipe,2,LEN,118.22,200.0,16,2019-09-07,,1
+164,PLMB-0034,"AquaFlow PVC Pipe Class 8.5 4m 2""",AquaFlow,2,LEN,241.12,315.0,2,2021-08-03,,1
+165,PLMB-0035,"HydroMax PVC Pipe Class 8.5 4m 2""",HydroMax,2,LEN,221.94,335.0,16,2021-06-26,,1
+166,PLMB-0036,"Thai Pipe PVC Pipe Class 8.5 4m 2""",Thai Pipe,2,LEN,218.23,325.0,12,2022-02-17,,1
+167,PLMB-0037,"AquaFlow PVC Pipe Class 8.5 4m 3/4""",AquaFlow,2,LEN,159.92,205.0,2,2026-03-26,,1
+168,PLMB-0038,"HydroMax PVC Pipe Class 8.5 4m 3/4""",HydroMax,2,LEN,153.99,260.0,9,2019-03-02,,1
+169,PLMB-0039,"Thai Pipe PVC Pipe Class 8.5 4m 3/4""",Thai Pipe,2,LEN,167.35,275.0,9,2023-10-30,,1
+170,SAFE-0001,SafeGuard Reflective Vest L,SafeGuard,6,PCS,83.89,135.0,6,2020-08-27,,1
+171,SAFE-0002,WorkSafe Reflective Vest L,WorkSafe,6,PCS,83.69,110.0,6,2025-08-26,,1
+172,SAFE-0003,WorkSafe Reflective Vest M,WorkSafe,6,PCS,73.59,120.0,6,2024-01-05,,1
+173,SAFE-0004,SafeGuard Reflective Vest XL,SafeGuard,6,PCS,120.68,170.0,20,2020-05-30,,1
+174,SAFE-0005,WorkSafe Reflective Vest XL,WorkSafe,6,PCS,108.09,175.0,6,2019-12-14,2026-05-20,0
+175,SAFE-0006,SafeGuard Safety Glasses Clear,SafeGuard,6,PCS,76.12,120.0,27,2018-02-18,,1
+176,SAFE-0007,WorkSafe Safety Glasses Clear,WorkSafe,6,PCS,90.59,120.0,20,2020-11-26,,1
+177,SAFE-0008,SafeGuard Safety Glasses Tinted,SafeGuard,6,PCS,102.08,170.0,20,2021-09-20,,1
+178,SAFE-0009,WorkSafe Safety Glasses Tinted,WorkSafe,6,PCS,101.76,140.0,20,2026-04-12,,1
+179,SAFE-0010,SafeGuard Safety Helmet Blue,SafeGuard,6,PCS,112.3,165.0,6,2020-10-03,,1
+180,SAFE-0011,SafeGuard Safety Helmet White,SafeGuard,6,PCS,81.22,140.0,20,2023-11-24,,1
+181,SAFE-0012,WorkSafe Safety Helmet White,WorkSafe,6,PCS,72.88,110.0,6,2023-06-09,,1
+182,SAFE-0013,SafeGuard Safety Helmet Yellow,SafeGuard,6,PCS,92.39,155.0,27,2021-02-24,,1
+183,SAFE-0014,WorkSafe Safety Helmet Yellow,WorkSafe,6,PCS,101.15,170.0,27,2018-08-18,,1
+184,SAFE-0015,SafeGuard Safety Shoes 39,SafeGuard,6,PAIR,572.02,810.0,27,2019-12-23,,1
+185,SAFE-0016,WorkSafe Safety Shoes 39,WorkSafe,6,PAIR,557.11,755.0,27,2019-08-06,,1
+186,SAFE-0017,SafeGuard Safety Shoes 41,SafeGuard,6,PAIR,833.91,1150.0,20,2025-03-29,,1
+187,SAFE-0018,WorkSafe Safety Shoes 41,WorkSafe,6,PAIR,799.6,1330.0,6,2021-10-27,,1
+188,SAFE-0019,SafeGuard Safety Shoes 43,SafeGuard,6,PAIR,1027.12,1685.0,27,2019-03-31,,1
+189,SAFE-0020,WorkSafe Safety Shoes 43,WorkSafe,6,PAIR,974.37,1425.0,20,2019-10-08,,1
+190,SAFE-0021,SafeGuard Work Gloves (12 pairs) Cotton,SafeGuard,6,PACK,118.1,190.0,20,2019-12-20,,1
+191,SAFE-0022,WorkSafe Work Gloves (12 pairs) Cotton,WorkSafe,6,PACK,134.48,180.0,20,2020-06-23,,1
+192,SAFE-0023,SafeGuard Work Gloves (12 pairs) Nitrile Coated,SafeGuard,6,PACK,157.2,245.0,6,2020-12-22,,1
+193,SAFE-0024,WorkSafe Work Gloves (12 pairs) Nitrile Coated,WorkSafe,6,PACK,151.31,225.0,20,2019-11-13,,1
+194,TOOL-0001,"Ironclad Angle Grinder 4""",Ironclad,3,UNIT,932.27,1525.0,3,2023-01-23,,1
+195,TOOL-0002,"Kinetic Angle Grinder 4""",Kinetic,3,UNIT,909.04,1540.0,24,2019-01-17,,1
+196,TOOL-0003,"ProLine Angle Grinder 4""",ProLine,3,UNIT,1020.22,1480.0,17,2020-04-21,,1
+197,TOOL-0004,"Ironclad Angle Grinder 5""",Ironclad,3,UNIT,1170.77,1780.0,17,2026-03-09,,1
+198,TOOL-0005,"Kinetic Angle Grinder 5""",Kinetic,3,UNIT,1382.91,2140.0,3,2019-02-02,2025-09-22,0
+199,TOOL-0006,"ProLine Angle Grinder 5""",ProLine,3,UNIT,1273.7,1920.0,17,2020-12-21,,1
+200,TOOL-0007,Ironclad Claw Hammer 16oz,Ironclad,3,PCS,129.57,205.0,17,2024-04-30,,1
+201,TOOL-0008,Kinetic Claw Hammer 16oz,Kinetic,3,PCS,137.12,225.0,3,2020-07-20,,1
+202,TOOL-0009,ProLine Claw Hammer 16oz,ProLine,3,PCS,126.78,200.0,10,2022-06-06,,1
+203,TOOL-0010,Ironclad Claw Hammer 20oz,Ironclad,3,PCS,157.87,255.0,17,2022-11-19,,1
+204,TOOL-0011,Kinetic Claw Hammer 20oz,Kinetic,3,PCS,168.46,250.0,24,2021-08-28,,1
+205,TOOL-0012,ProLine Claw Hammer 20oz,ProLine,3,PCS,174.78,265.0,17,2019-02-15,,1
+206,TOOL-0013,Ironclad Cordless Drill 18V 1 Battery,Ironclad,3,UNIT,2815.39,3650.0,17,2024-06-01,,1
+207,TOOL-0014,Kinetic Cordless Drill 18V 1 Battery,Kinetic,3,UNIT,2505.64,3230.0,17,2021-01-05,,1
+208,TOOL-0015,ProLine Cordless Drill 18V 1 Battery,ProLine,3,UNIT,2681.45,3900.0,3,2021-08-07,,1
+209,TOOL-0016,Kinetic Cordless Drill 18V 2 Battery,Kinetic,3,UNIT,3544.15,5760.0,17,2023-10-17,,1
+210,TOOL-0017,ProLine Cordless Drill 18V 2 Battery,ProLine,3,UNIT,3440.66,4445.0,3,2023-11-18,,1
+211,TOOL-0018,Ironclad Measuring Tape 5m,Ironclad,3,PCS,110.94,180.0,3,2020-03-26,,1
+212,TOOL-0019,Kinetic Measuring Tape 5m,Kinetic,3,PCS,97.49,160.0,24,2023-01-02,,1
+213,TOOL-0020,Ironclad Measuring Tape 8m,Ironclad,3,PCS,141.86,205.0,3,2019-01-06,,1
+214,TOOL-0021,ProLine Measuring Tape 8m,ProLine,3,PCS,132.73,200.0,3,2021-01-07,,1
+215,TOOL-0022,Ironclad Screwdriver Set 12pc,Ironclad,3,SET,332.75,510.0,17,2018-02-04,,1
+216,TOOL-0023,Kinetic Screwdriver Set 12pc,Kinetic,3,SET,340.23,480.0,3,2020-10-29,,1
+217,TOOL-0024,ProLine Screwdriver Set 12pc,ProLine,3,SET,328.81,465.0,17,2019-03-19,,1
+218,TOOL-0025,Ironclad Screwdriver Set 6pc,Ironclad,3,SET,251.82,375.0,24,2021-05-08,,1
+219,TOOL-0026,Kinetic Screwdriver Set 6pc,Kinetic,3,SET,253.84,355.0,3,2023-07-31,,1
+220,TOOL-0027,ProLine Screwdriver Set 6pc,ProLine,3,SET,251.05,370.0,17,2023-12-30,,1

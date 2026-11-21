@@ -1,0 +1,4 @@
+warehouse_id,code,name,province,region
+1,WH-BKK,Bangkok Distribution Center,Samut Prakan,Central
+2,WH-CNX,Chiang Mai Branch Warehouse,Chiang Mai,North
+3,WH-KKN,Khon Kaen Branch Warehouse,Khon Kaen,Northeast

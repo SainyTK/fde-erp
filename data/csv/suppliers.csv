@@ -1,0 +1,29 @@
+supplier_id,supplier_code,name,tax_id,province,phone,email,payment_terms_days,lead_time_days,order_weekday,created_date,is_active
+1,V0001,"Northern Electric Products Co., Ltd.",0105586850141,Pathum Thani,02-282-5349,sales@northernelectricpr.co.th,30,18,0,2020-09-09,1
+2,V0002,"Prosper Pipe Import Co., Ltd.",0105934060880,Samut Prakan,02-803-4228,sales@prosperpipeimport.co.th,45,9,1,2014-10-14,1
+3,V0003,"Golden Tools Factory Co., Ltd.",0105484656485,Pathum Thani,02-230-4143,sales@goldentoolsfactory.co.th,60,9,2,2021-08-06,1
+4,V0004,"Kittikun Fastener Factory Co., Ltd.",0105443699571,Pathum Thani,02-552-8244,sales@kittikunfastenerfa.co.th,30,11,3,2019-04-23,1
+5,V0005,"Saeng Thong Paint Corporation Co., Ltd.",0105513433205,Chonburi,087-725-2193,sales@saengthongpaintcor.co.th,60,9,4,2021-01-23,1
+6,V0006,"Eastern Safety Import Co., Ltd.",0105163287086,Rayong,081-567-3184,sales@easternsafetyimpor.co.th,60,25,5,2022-06-21,1
+7,V0007,Ruamjai Building Materials Import Limited Partnership,0105774348732,Samut Sakhon,081-830-5681,sales@ruamjaibuildingmat.co.th,30,7,0,2017-10-07,1
+8,V0008,"Nakhon Electric Industries Co., Ltd.",0105316658760,Rayong,086-498-1320,sales@nakhonelectricindu.co.th,60,10,1,2014-01-25,1
+9,V0009,"Suwan Pipe Trading Co., Ltd.",0105889373462,Pathum Thani,02-597-1475,sales@suwanpipetrading.co.th,60,8,2,2021-07-02,1
+10,V0010,"Northern Tools Corporation Co., Ltd.",0105980699014,Bangkok,02-758-8022,sales@northerntoolscorpo.co.th,30,10,3,2016-01-15,1
+11,V0011,"Prosper Fastener Manufacturing Co., Ltd.",0105464170803,Samut Sakhon,054-329-765,sales@prosperfastenerman.co.th,30,3,4,2022-06-17,1
+12,V0012,"Phatthana Paint Trading Co., Ltd.",0105193745295,Bangkok,02-721-2876,sales@phatthanapainttrad.co.th,30,7,5,2015-03-19,1
+13,V0013,"Suwan Safety Factory Co., Ltd.",0105319314913,Samut Prakan,02-915-1672,sales@suwansafetyfactory.co.th,45,11,0,2018-10-21,1
+14,V0014,"Sinsap Building Materials Factory Co., Ltd.",0105716572625,Samut Prakan,02-851-9548,sales@sinsapbuildingmate.co.th,45,30,1,2019-03-20,1
+15,V0015,Boonmee Electric Products Limited Partnership,0105737996505,Bangkok,02-606-6325,sales@boonmeeelectricpro.co.th,30,10,2,2016-05-18,1
+16,V0016,"Sombat Pipe Products Co., Ltd.",0105808313677,Samut Sakhon,047-807-587,sales@sombatpipeproducts.co.th,60,10,3,2022-11-22,1
+17,V0017,"Udom Tools Import Co., Ltd.",0105788568551,Chonburi,049-413-357,sales@udomtoolsimport.co.th,30,4,4,2022-02-02,1
+18,V0018,"Nakhon Fastener Trading Co., Ltd.",0105498941349,Pathum Thani,02-332-6912,sales@nakhonfastenertrad.co.th,30,7,5,2014-02-27,1
+19,V0019,"Thai Pattana Paint Products Co., Ltd.",0105271094773,Bangkok,02-551-6582,sales@thaipattanapaintpr.co.th,30,16,0,2016-10-31,1
+20,V0020,Chokdee Safety Industries Limited Partnership,0105022941316,Bangkok,02-671-7818,sales@chokdeesafetyindus.co.th,30,11,1,2018-04-08,1
+21,V0021,Andaman Building Materials Products Limited Partnership,0105909133411,Bangkok,02-260-4929,sales@andamanbuildingmat.co.th,30,11,2,2014-11-04,1
+22,V0022,"Andaman Electric Corporation Co., Ltd.",0105471349368,Bangkok,02-217-9922,sales@andamanelectriccor.co.th,30,5,3,2016-12-24,1
+23,V0023,"Sinsap Pipe Industries Co., Ltd.",0105947174641,Pathum Thani,02-612-9847,sales@sinsappipeindustri.co.th,60,10,4,2014-11-26,1
+24,V0024,"Isan Tools Corporation Co., Ltd.",0105990490274,Bangkok,02-631-8245,sales@isantoolscorporati.co.th,45,5,5,2020-07-25,1
+25,V0025,"Sahamit Fastener Industries Co., Ltd.",0105125674680,Bangkok,02-137-8451,sales@sahamitfastenerind.co.th,30,8,0,2016-10-30,1
+26,V0026,"Northern Paint Trading Co., Ltd.",0105876038597,Rayong,072-552-878,sales@northernpainttradi.co.th,30,6,1,2016-12-29,1
+27,V0027,Thawee Safety Import Limited Partnership,0105932480865,Bangkok,02-195-4681,sales@thaweesafetyimport.co.th,30,10,2,2015-04-27,1
+28,V0028,Rungrueang Building Materials Import Limited Partnership,0105677378266,Rayong,089-620-3236,sales@rungrueangbuilding.co.th,30,7,3,2022-08-31,1

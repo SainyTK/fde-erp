@@ -1,0 +1,62 @@
+employee_id,employee_code,first_name,last_name,email,department_id,job_title,manager_id,hire_date,termination_date,monthly_salary,is_active
+1,E0001,Thanakorn,Saetang,thanakorn.s@apro.co.th,1,Managing Director,,2014-09-30,,230500.0,1
+2,E0002,Surasak,Rattanakorn,surasak.r@apro.co.th,1,Executive Assistant,1,2016-12-22,,38000.0,1
+3,E0003,Anan,Saetang,anan.s@apro.co.th,1,Executive Assistant,1,2016-04-18,,32500.0,1
+4,E0004,Sasithorn,Kaewkla,sasithorn.k@apro.co.th,2,Sales Manager,1,2015-02-13,,94000.0,1
+5,E0005,Somchai,Yodmanee,somchai.y@apro.co.th,2,Sales Representative,4,2017-09-28,,38000.0,1
+6,E0006,Ekkachai,Yodmanee,ekkachai.y@apro.co.th,2,Key Account Executive,4,2020-01-10,,42000.0,1
+7,E0007,Pimchanok,Kongkaew,pimchanok.k@apro.co.th,2,Key Account Executive,4,2022-01-05,,58000.0,1
+8,E0008,Thanakorn,Charoenrat,thanakorn.c@apro.co.th,2,Sales Representative,4,2022-12-08,,34500.0,1
+9,E0009,Ratchanee,Boonyarat,ratchanee.b@apro.co.th,2,Sales Representative,4,2025-08-22,,38000.0,1
+10,E0010,Malee,Wongsawat,malee.w@apro.co.th,2,Sales Representative,4,2021-01-31,,42000.0,1
+11,E0011,Ratchanee,Thongdee,ratchanee.t@apro.co.th,2,Key Account Executive,4,2023-11-14,,48000.0,1
+12,E0012,Wichai,Kongkaew,wichai.k@apro.co.th,2,Sales Representative,4,2021-03-08,,34500.0,1
+13,E0013,Wanida,Suksawat,wanida.s@apro.co.th,2,Sales Representative,4,2024-09-13,,37500.0,1
+14,E0014,Prasert,Kaewkla,prasert.k@apro.co.th,2,Sales Representative,4,2016-09-28,,40500.0,1
+15,E0015,Ekkachai,Boonyarat,ekkachai.b@apro.co.th,2,Key Account Executive,4,2023-03-18,,44500.0,1
+16,E0016,Orawan,Rattanakorn,orawan.r@apro.co.th,2,Key Account Executive,4,2022-01-16,,43000.0,1
+17,E0017,Phongsakorn,Thammasak,phongsakorn.t@apro.co.th,2,Key Account Executive,4,2018-06-17,,60000.0,1
+18,E0018,Chaiwat,Nakprasit,chaiwat.n@apro.co.th,2,Key Account Executive,4,2025-04-23,,42000.0,1
+19,E0019,Sompong,Limpaiboon,sompong.l@apro.co.th,2,Sales Representative,4,2016-09-17,,40000.0,1
+20,E0020,Wanida,Charoenrat,wanida.c@apro.co.th,2,Key Account Executive,4,2016-02-17,,51500.0,1
+21,E0021,Thanakorn,Wattanasin,thanakorn.w@apro.co.th,2,Key Account Executive,4,2019-04-17,,57000.0,1
+22,E0022,Jiraporn,Thongdee,jiraporn.t@apro.co.th,3,Purchasing Manager,1,2020-02-05,,84000.0,1
+23,E0023,Phongsakorn,Nakprasit,phongsakorn.n@apro.co.th,3,Buyer,22,2023-01-05,,33500.0,1
+24,E0024,Chutima,Kongkaew,chutima.k@apro.co.th,3,Buyer,22,2022-01-18,,27500.0,1
+25,E0025,Benjawan,Saetang,benjawan.s@apro.co.th,3,Buyer,22,2020-01-26,,33500.0,1
+26,E0026,Siriporn,Kaewkla,siriporn.k@apro.co.th,3,Buyer,22,2016-11-18,2026-06-12,29000.0,0
+27,E0027,Wichai,Yodmanee,wichai.y@apro.co.th,4,Warehouse Manager,1,2013-05-30,,75500.0,1
+28,E0028,Chaiwat,Wattanasin,chaiwat.w@apro.co.th,4,Inventory Controller,27,2021-12-01,,29500.0,1
+29,E0029,Jiraporn,Bunmee,jiraporn.b@apro.co.th,4,Forklift Operator,27,2023-07-14,,16500.0,1
+30,E0030,Kanya,Nakprasit,kanya.n@apro.co.th,4,Inventory Controller,27,2019-10-16,2026-08-21,21000.0,0
+31,E0031,Surasak,Boonyarat,surasak.b@apro.co.th,4,Forklift Operator,27,2016-08-29,,13000.0,1
+32,E0032,Anan,Chantarasorn,anan.c@apro.co.th,4,Delivery Driver,27,2023-07-03,,14500.0,1
+33,E0033,Chaiwat,Thammasak,chaiwat.t@apro.co.th,4,Inventory Controller,27,2020-07-25,,22500.0,1
+34,E0034,Narong,Wattanasin,narong.w@apro.co.th,4,Inventory Controller,27,2024-03-05,2025-05-11,23500.0,0
+35,E0035,Prasert,Charoenrat,prasert.c@apro.co.th,4,Delivery Driver,27,2018-02-23,,19000.0,1
+36,E0036,Kanya,Rattanakorn,kanya.r@apro.co.th,4,Inventory Controller,27,2016-11-04,,22000.0,1
+37,E0037,Narong,Srisuk,narong.s@apro.co.th,4,Warehouse Staff,27,2018-08-26,,18000.0,1
+38,E0038,Duangjai,Siriwat,duangjai.s@apro.co.th,4,Forklift Operator,27,2017-11-05,,17500.0,1
+39,E0039,Wanida,Suksawat,wanida.su@apro.co.th,4,Inventory Controller,27,2024-03-11,,23000.0,1
+40,E0040,Duangjai,Rattanakorn,duangjai.r@apro.co.th,4,Forklift Operator,27,2022-06-30,,14500.0,1
+41,E0041,Prasert,Thammasak,prasert.t@apro.co.th,4,Delivery Driver,27,2021-08-21,,14500.0,1
+42,E0042,Benjawan,Thongdee,benjawan.t@apro.co.th,4,Warehouse Staff,27,2025-07-10,,18000.0,1
+43,E0043,Wichai,Kongkaew,wichai.ko@apro.co.th,4,Warehouse Staff,27,2017-05-06,,16000.0,1
+44,E0044,Thanawat,Boonyarat,thanawat.b@apro.co.th,4,Warehouse Staff,27,2022-07-18,,15500.0,1
+45,E0045,Kanokwan,Suksawat,kanokwan.s@apro.co.th,4,Forklift Operator,27,2018-12-23,,16500.0,1
+46,E0046,Siriporn,Pongpanit,siriporn.p@apro.co.th,4,Delivery Driver,27,2016-02-08,,19500.0,1
+47,E0047,Narong,Wongsawat,narong.wo@apro.co.th,5,Finance Manager,1,2017-09-03,,101000.0,1
+48,E0048,Phongsakorn,Rattanakorn,phongsakorn.r@apro.co.th,5,AR/AP Officer,47,2020-02-22,,27000.0,1
+49,E0049,Kanya,Kittisak,kanya.k@apro.co.th,5,AR/AP Officer,47,2023-05-02,,24000.0,1
+50,E0050,Siriporn,Wattanasin,siriporn.w@apro.co.th,5,Accountant,47,2017-04-17,,39000.0,1
+51,E0051,Sompong,Suksawat,sompong.s@apro.co.th,5,AR/AP Officer,47,2018-04-13,,24000.0,1
+52,E0052,Phongsakorn,Nakprasit,phongsakorn.na@apro.co.th,5,AR/AP Officer,47,2016-07-27,2026-04-09,20500.0,0
+53,E0053,Somying,Srisuk,somying.s@apro.co.th,6,IT Manager,1,2020-08-24,,81000.0,1
+54,E0054,Chaiwat,Limpaiboon,chaiwat.l@apro.co.th,6,IT Support,53,2023-11-30,,22500.0,1
+55,E0055,Somchai,Chaiyaporn,somchai.c@apro.co.th,6,IT Support,53,2017-09-02,,33000.0,1
+56,E0056,Ratchanee,Boonyarat,ratchanee.bo@apro.co.th,6,IT Support,53,2026-01-09,,26000.0,1
+57,E0057,Anan,Sombat,anan.so@apro.co.th,7,HR & Admin Manager,1,2014-10-19,,70500.0,1
+58,E0058,Narong,Sombat,narong.so@apro.co.th,7,Admin Officer,57,2018-08-27,,25000.0,1
+59,E0059,Pichai,Inthasorn,pichai.i@apro.co.th,7,HR Officer,57,2024-10-09,,22000.0,1
+60,E0060,Thanawat,Suksawat,thanawat.s@apro.co.th,7,HR Officer,57,2016-06-07,,29500.0,1
+61,E0061,Surasak,Bunmee,surasak.bu@apro.co.th,7,Admin Officer,57,2018-07-21,,19000.0,1

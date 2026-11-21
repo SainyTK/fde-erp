@@ -1,0 +1,401 @@
+customer_id,customer_code,name,tax_id,segment,province,region,phone,email,credit_limit,payment_terms_days,sales_rep_id,default_warehouse_id,created_date,is_active
+1,C00001,Kittikun Home Mart Limited Partnership,0496554947171,Retail,Surat Thani,South,089-694-2166,account@kittikunhomemart.co.th,140000.0,0,20,1,2019-06-30,1
+2,C00002,Arthit Home Mart,3217525007431,Retail,Nonthaburi,Central,02-879-3762,purchase@arthithomemart.co.th,90000.0,30,6,1,2022-02-18,1
+3,C00003,Anan Hardware Shop,3300335421689,Retail,Chonburi,East,042-166-943,sales@ananhardware.co.th,270000.0,15,13,1,2017-02-27,1
+4,C00004,Duangjai Home Mart,1230982150641,Retail,Pathum Thani,Central,02-889-9761,sales@duangjaihomemart.co.th,50000.0,0,7,1,2026-02-18,1
+5,C00005,Phongsakorn Hardware Shop,3184992618913,Retail,Nakhon Pathom,Central,081-609-4254,purchase@phongsakornhardwar.co.th,130000.0,15,20,1,2025-01-10,1
+6,C00006,Ekkachai Construction Shop,3119721811436,Retail,Chiang Mai,North,050-370-575,sales@ekkachaiconstructi.co.th,50000.0,0,9,2,2019-08-19,1
+7,C00007,"Sukjai Contractor Co., Ltd.",0315579415521,Contractor,Khon Kaen,Northeast,086-567-5453,account@sukjaicontractor.co.th,1390000.0,60,19,3,2025-05-22,1
+8,C00008,"Saeng Thong Hardware Co., Ltd.",0339659027718,Retail,Surat Thani,South,060-147-164,info@saengthonghardware.co.th,220000.0,15,4,1,2023-05-20,1
+9,C00009,Udom Development Limited Partnership,0891637562899,Contractor,Chiang Mai,North,082-617-8688,account@udomdevelopment.co.th,1440000.0,30,6,2,2022-11-13,1
+10,C00010,Wanida Construction Shop,3717751701666,Retail,Samut Prakan,Central,02-136-9996,sales@wanidaconstruction.co.th,160000.0,0,13,1,2022-02-24,1
+11,C00011,United Engineering Limited Partnership,0899757113053,Contractor,Nakhon Ratchasima,Northeast,084-660-9552,info@unitedengineering.co.th,1210000.0,60,7,3,2020-09-21,1
+12,C00012,"Lanna Interior Co., Ltd.",0345160917796,Contractor,Rayong,East,040-610-104,sales@lannainterior.co.th,590000.0,60,17,1,2026-02-07,1
+13,C00013,"Kittikun Supply Co., Ltd.",0105586693461,Wholesale,Bangkok,Central,02-451-5819,account@kittikunsupply.co.th,4030000.0,45,8,1,2023-09-26,1
+14,C00014,"Pornchai Construction Shop Co., Ltd.",0262885158792,Retail,Chachoengsao,East,074-827-527,info@pornchaiconstructi.co.th,280000.0,30,4,1,2020-11-15,1
+15,C00015,Boonmee Builders Limited Partnership,0105043805713,Contractor,Bangkok,Central,02-730-4675,account@boonmeebuilders.co.th,460000.0,30,20,1,2019-10-24,1
+16,C00016,"Eastern Contractor Co., Ltd.",0423973598939,Contractor,Khon Kaen,Northeast,044-401-559,purchase@easterncontractor.co.th,300000.0,60,6,3,2023-03-12,1
+17,C00017,Phongsakorn Home Mart,2909479851588,Retail,Bangkok,Central,02-325-4012,sales@phongsakornhomemar.co.th,60000.0,0,17,1,2018-09-27,1
+18,C00018,"Golden Hardware Trading Co., Ltd.",0810157399306,Wholesale,Nonthaburi,Central,02-798-6258,account@goldenhardwaretrad.co.th,3650000.0,30,16,1,2023-12-08,1
+19,C00019,"Andaman Development Co., Ltd.",0222880133619,Contractor,Nonthaburi,Central,02-310-9810,account@andamandevelopment.co.th,1130000.0,60,6,1,2020-08-05,1
+20,C00020,Pichai Hardware,2667665061801,Retail,Khon Kaen,Northeast,071-164-874,sales@pichaihardware.co.th,260000.0,0,15,3,2023-06-14,1
+21,C00021,Kanya Hardware,3326842450880,Retail,Pathum Thani,Central,02-244-3019,sales@kanyahardware.co.th,170000.0,0,16,1,2017-05-07,1
+22,C00022,"Royal Interior Co., Ltd.",0389431290879,Contractor,Surat Thani,South,036-397-787,sales@royalinterior.co.th,490000.0,45,7,1,2018-08-07,1
+23,C00023,Wichai Home Mart,3492995562051,Retail,Surat Thani,South,083-829-8145,info@wichaihomemart.co.th,130000.0,15,8,1,2022-01-20,1
+24,C00024,Narong Home Center,1834110809968,Retail,Bangkok,Central,02-887-4485,sales@naronghomecenter.co.th,260000.0,15,21,1,2020-02-24,1
+25,C00025,Malee Hardware Shop,3039282722991,Retail,Bangkok,Central,02-775-3395,account@maleehardware.co.th,150000.0,15,5,1,2018-01-06,1
+26,C00026,"United Home Mart Co., Ltd.",0511844989262,Retail,Songkhla,South,055-701-769,sales@unitedhomemart.co.th,300000.0,15,16,1,2017-06-13,1
+27,C00027,Sahamit Materials Limited Partnership,0391843222598,Wholesale,Ubon Ratchathani,Northeast,039-776-335,account@sahamitmaterials.co.th,3200000.0,60,7,3,2025-05-23,1
+28,C00028,"Saeng Thong Home Mart Co., Ltd.",0432869904131,Retail,Chonburi,East,062-988-593,purchase@saengthonghomemart.co.th,60000.0,0,17,1,2018-08-25,1
+29,C00029,Nattaya Construction Shop,2210388629121,Retail,Songkhla,South,071-714-139,sales@nattayaconstructio.co.th,110000.0,0,19,1,2017-10-09,1
+30,C00030,United Hardware Shop Limited Partnership,0585991624734,Retail,Chiang Rai,North,037-390-712,account@unitedhardware.co.th,250000.0,15,10,2,2022-05-29,1
+31,C00031,"Pornchai Contractor Co., Ltd.",0844486959461,Contractor,Nonthaburi,Central,02-873-4337,account@pornchaicontractor.co.th,970000.0,60,21,1,2018-09-26,1
+32,C00032,"Northern Home Center Co., Ltd.",0992138658904,Retail,Udon Thani,Northeast,080-923-2492,purchase@northernhomecenter.co.th,160000.0,30,17,3,2019-07-31,1
+33,C00033,Eastern Interior Limited Partnership,0860277038432,Contractor,Samut Prakan,Central,02-134-9364,purchase@easterninterior.co.th,1480000.0,60,9,1,2020-03-19,1
+34,C00034,Boonmee Trading Limited Partnership,0111184895545,Wholesale,Pathum Thani,Central,02-331-4187,account@boonmeetrading.co.th,2000000.0,90,4,1,2023-07-29,1
+35,C00035,Thanakorn Home Center,3476973577904,Retail,Nakhon Ratchasima,Northeast,048-169-491,purchase@thanakornhomecente.co.th,250000.0,0,14,3,2023-01-13,1
+36,C00036,"Wattana Engineering Co., Ltd.",0327553942372,Contractor,Samut Prakan,Central,02-854-4271,purchase@wattanaengineering.co.th,340000.0,60,11,1,2020-11-01,1
+37,C00037,Narong Construction Shop,3075957947282,Retail,Bangkok,Central,02-386-7518,purchase@narongconstruction.co.th,200000.0,0,5,1,2026-05-20,1
+38,C00038,Pichai Home Center,3003691559420,Retail,Nakhon Pathom,Central,047-375-582,info@pichaihomecenter.co.th,170000.0,15,9,1,2026-06-15,1
+39,C00039,Pichai Hardware Shop,1438663227021,Retail,Chonburi,East,040-969-745,info@pichaihardware2.co.th,110000.0,30,13,1,2024-09-10,1
+40,C00040,Pornchai Construction Limited Partnership,0435588450619,Contractor,Nakhon Pathom,Central,089-303-9821,purchase@pornchaiconstructi2.co.th,1540000.0,45,15,1,2022-01-17,1
+41,C00041,Malee Hardware,2699611253550,Retail,Nakhon Pathom,Central,077-373-719,account@maleehardware2.co.th,210000.0,15,18,1,2018-11-18,1
+42,C00042,"Lanna Contractor Co., Ltd.",0991326111789,Contractor,Udon Thani,Northeast,086-636-2363,sales@lannacontractor.co.th,1390000.0,45,8,3,2025-08-29,1
+43,C00043,Chaiwat Home Center,2577848728295,Retail,Bangkok,Central,02-711-8480,account@chaiwathomecenter.co.th,60000.0,15,15,1,2017-04-28,1
+44,C00044,Siriporn Hardware Shop,2807740649308,Retail,Bangkok,Central,02-661-7121,purchase@siripornhardware.co.th,140000.0,30,21,1,2018-07-13,1
+45,C00045,"Eastern Technic Co., Ltd.",0105944846312,Contractor,Bangkok,Central,02-286-3238,info@easterntechnic.co.th,1580000.0,30,18,1,2022-10-18,1
+46,C00046,Somsak Hardware,2031207356472,Retail,Bangkok,Central,02-480-8597,sales@somsakhardware.co.th,80000.0,15,6,1,2025-10-03,1
+47,C00047,Sukjai Hardware Shop Limited Partnership,0143718376457,Retail,Lampang,North,080-862-9534,sales@sukjaihardware.co.th,110000.0,15,19,2,2021-12-20,1
+48,C00048,"Sukjai Supply Co., Ltd.",0603009792519,Wholesale,Samut Prakan,Central,02-354-3583,account@sukjaisupply.co.th,3920000.0,30,14,1,2025-10-10,1
+49,C00049,"Mongkol Home Mart Co., Ltd.",0105730652401,Retail,Bangkok,Central,02-596-8168,info@mongkolhomemart.co.th,240000.0,30,10,1,2024-03-25,1
+50,C00050,"Saeng Thong Technic Co., Ltd.",0105708620951,Contractor,Bangkok,Central,02-894-4912,info@saengthongtechnic.co.th,1170000.0,60,6,1,2019-12-15,1
+51,C00051,"Rungrueang Contractor Co., Ltd.",0941022031734,Contractor,Nonthaburi,Central,02-201-1521,account@rungrueangcontract.co.th,370000.0,60,19,1,2018-03-29,1
+52,C00052,Siam Construction Shop Limited Partnership,0105058650940,Retail,Bangkok,Central,02-641-1666,sales@siamconstruction.co.th,170000.0,15,6,1,2017-11-24,1
+53,C00053,"Eastern Development Co., Ltd.",0818619576120,Contractor,Chonburi,East,067-511-616,info@easterndevelopment.co.th,1910000.0,60,9,1,2024-01-06,1
+54,C00054,Prosper Industrial Supply Limited Partnership,0828368457761,Wholesale,Samut Prakan,Central,02-100-1567,info@prosperindustrials.co.th,4040000.0,30,20,1,2020-08-17,1
+55,C00055,Somying Home Center,1107522459335,Retail,Songkhla,South,084-194-7550,purchase@somyinghomecenter.co.th,280000.0,0,14,1,2023-05-27,1
+56,C00056,"Mongkol Development Co., Ltd.",0175566139069,Contractor,Nonthaburi,Central,02-155-5993,sales@mongkoldevelopment.co.th,890000.0,45,21,1,2023-06-19,1
+57,C00057,"Ruamjai Hardware Shop Co., Ltd.",0207908641685,Retail,Samut Prakan,Central,02-544-3136,purchase@ruamjaihardware.co.th,80000.0,30,21,1,2018-08-30,1
+58,C00058,"Thongchai Interior Co., Ltd.",0105911665530,Contractor,Bangkok,Central,02-428-6644,sales@thongchaiinterior.co.th,1430000.0,45,9,1,2020-08-17,1
+59,C00059,"Udom Hardware Co., Ltd.",0163924051479,Retail,Pathum Thani,Central,02-582-1372,info@udomhardware.co.th,80000.0,0,21,1,2017-12-18,1
+60,C00060,"Rungrueang Development Co., Ltd.",0422043940704,Contractor,Chiang Mai,North,084-778-6901,sales@rungrueangdevelopm.co.th,1150000.0,30,13,2,2024-06-10,1
+61,C00061,Sahamit Hardware Limited Partnership,0810038457621,Retail,Chonburi,East,085-463-5953,purchase@sahamithardware.co.th,290000.0,15,5,1,2026-05-28,1
+62,C00062,"Boonmee Trading Co., Ltd.",0588936392641,Wholesale,Nonthaburi,Central,02-719-6395,account@boonmeetrading2.co.th,1440000.0,45,10,1,2018-07-17,1
+63,C00063,Benjawan Home Mart,3251881252054,Retail,Surat Thani,South,058-521-410,account@benjawanhomemart.co.th,210000.0,15,8,1,2018-08-18,1
+64,C00064,"Boonmee Development Co., Ltd.",0551728975269,Contractor,Rayong,East,040-267-297,purchase@boonmeedevelopment.co.th,1440000.0,30,17,1,2019-08-04,1
+65,C00065,"Sinsap Home Mart Co., Ltd.",0517366096569,Retail,Phuket,South,068-708-649,sales@sinsaphomemart.co.th,170000.0,0,18,1,2023-12-03,1
+66,C00066,Anan Construction Shop,1476447264907,Retail,Chonburi,East,041-574-949,account@ananconstruction.co.th,290000.0,0,20,1,2024-01-28,1
+67,C00067,"Northern Builders Co., Ltd.",0357145211171,Contractor,Samut Prakan,Central,02-749-6946,sales@northernbuilders.co.th,1810000.0,60,16,1,2026-08-28,1
+68,C00068,Nattapong Construction Shop,1220644742123,Retail,Surat Thani,South,032-737-883,info@nattapongconstruct.co.th,270000.0,0,18,1,2024-05-25,1
+69,C00069,"Wattana Contractor Co., Ltd.",0860384983025,Contractor,Chiang Mai,North,085-137-3381,sales@wattanacontractor.co.th,340000.0,60,13,2,2021-12-15,1
+70,C00070,"Thawee Supply Co., Ltd.",0689501455615,Wholesale,Chiang Mai,North,067-166-399,account@thaweesupply.co.th,1890000.0,45,7,2,2023-04-22,1
+71,C00071,"Pornchai Interior Co., Ltd.",0105179469545,Contractor,Bangkok,Central,02-638-6797,purchase@pornchaiinterior.co.th,1150000.0,60,19,1,2024-01-21,1
+72,C00072,Malee Construction Shop,1396605583031,Retail,Ratchaburi,West,048-909-169,info@maleeconstruction.co.th,170000.0,15,20,1,2025-01-25,1
+73,C00073,Rattana Hardware Shop Limited Partnership,0105702727851,Retail,Bangkok,Central,02-573-7782,sales@rattanahardware.co.th,170000.0,15,14,1,2024-07-17,1
+74,C00074,Sompong Home Center,1996291450461,Retail,Bangkok,Central,02-188-9143,purchase@somponghomecenter.co.th,210000.0,15,18,1,2026-01-20,1
+75,C00075,Phatthana Home Center Limited Partnership,0293578452180,Retail,Samut Prakan,Central,02-792-3174,purchase@phatthanahomecente.co.th,280000.0,0,18,1,2026-05-10,1
+76,C00076,"Charoen Hardware Co., Ltd.",0493533448572,Retail,Ubon Ratchathani,Northeast,049-252-261,info@charoenhardware.co.th,60000.0,0,4,3,2025-11-16,1
+77,C00077,"Prosper Development Co., Ltd.",0194958702074,Contractor,Phuket,South,035-208-492,sales@prosperdevelopment.co.th,640000.0,30,17,1,2023-06-10,1
+78,C00078,"Andaman Interior Co., Ltd.",0207921717479,Contractor,Nonthaburi,Central,02-581-4796,purchase@andamaninterior.co.th,1660000.0,30,12,1,2024-07-10,1
+79,C00079,"Prosper Technic Co., Ltd.",0105245992816,Contractor,Bangkok,Central,02-515-2752,info@prospertechnic.co.th,1060000.0,60,6,1,2020-12-10,1
+80,C00080,Nattaya Hardware Shop,2958321971995,Retail,Bangkok,Central,02-574-6330,sales@nattayahardware.co.th,250000.0,30,9,1,2021-11-01,1
+81,C00081,"Thanakit Interior Co., Ltd.",0282784699739,Contractor,Nakhon Ratchasima,Northeast,085-406-5989,account@thanakitinterior.co.th,1660000.0,60,15,3,2024-02-19,1
+82,C00082,"Thanakit Home Mart Co., Ltd.",0551403696565,Retail,Chonburi,East,059-658-316,purchase@thanakithomemart.co.th,260000.0,30,8,1,2026-07-28,1
+83,C00083,"Thawee Supply Public Co., Ltd.",0287621267966,Wholesale,Chiang Mai,North,061-621-534,account@thaweesupply2.co.th,4240000.0,90,15,2,2025-03-15,1
+84,C00084,"Ruamjai Supply Co., Ltd.",0827519712845,Wholesale,Songkhla,South,037-635-724,sales@ruamjaisupply.co.th,5890000.0,45,19,1,2017-05-18,1
+85,C00085,"Suwan Development Co., Ltd.",0757956544207,Contractor,Surat Thani,South,070-867-411,info@suwandevelopment.co.th,1040000.0,30,19,1,2017-02-14,1
+86,C00086,Duangjai Construction Shop,3444019292753,Retail,Bangkok,Central,02-927-3873,info@duangjaiconstructi.co.th,110000.0,0,19,1,2020-02-13,1
+87,C00087,Rungrueang Industrial Supply Limited Partnership,0662395041020,Wholesale,Khon Kaen,Northeast,062-408-587,purchase@rungrueangindustri.co.th,2190000.0,90,16,3,2021-04-19,1
+88,C00088,Kanokwan Hardware Shop,3569454414968,Retail,Phuket,South,075-867-347,purchase@kanokwanhardware.co.th,70000.0,15,9,1,2017-06-18,1
+89,C00089,"Andaman Hardware Co., Ltd.",0210939111924,Retail,Phitsanulok,North,089-922-4027,sales@andamanhardware.co.th,60000.0,0,12,2,2017-05-20,1
+90,C00090,"Isan Materials Co., Ltd.",0194066504425,Wholesale,Chiang Mai,North,063-305-724,account@isanmaterials.co.th,1810000.0,45,19,2,2019-11-21,1
+91,C00091,"Andaman Construction Co., Ltd.",0105707200648,Contractor,Bangkok,Central,02-255-6403,account@andamanconstructio.co.th,1510000.0,60,4,1,2026-08-09,1
+92,C00092,"Siam Hardware Co., Ltd.",0555460158511,Retail,Chiang Mai,North,050-763-307,purchase@siamhardware.co.th,190000.0,0,16,2,2018-05-12,1
+93,C00093,Kanya Home Center,3376184787006,Retail,Phitsanulok,North,085-906-1701,account@kanyahomecenter.co.th,60000.0,0,10,2,2025-07-17,1
+94,C00094,"Nakhon Technic Co., Ltd.",0720790320201,Contractor,Rayong,East,038-567-725,purchase@nakhontechnic.co.th,1520000.0,60,6,1,2017-06-01,1
+95,C00095,Sinsap Builders Limited Partnership,0259825309251,Contractor,Samut Prakan,Central,02-164-2978,info@sinsapbuilders.co.th,920000.0,30,17,1,2024-08-10,1
+96,C00096,"Thawee Home Mart Co., Ltd.",0284876329093,Retail,Nakhon Ratchasima,Northeast,087-726-2442,info@thaweehomemart.co.th,80000.0,15,17,3,2024-10-06,1
+97,C00097,United Construction Limited Partnership,0943403127721,Contractor,Ratchaburi,West,080-155-6966,info@unitedconstruction.co.th,1590000.0,30,17,1,2022-03-17,1
+98,C00098,Thanakit Construction Limited Partnership,0105137995630,Contractor,Bangkok,Central,02-865-6336,purchase@thanakitconstructi.co.th,1130000.0,30,14,1,2022-06-10,1
+99,C00099,"Rungrueang Hardware Co., Ltd.",0345435209045,Retail,Rayong,East,087-569-7852,purchase@rungrueanghardware.co.th,80000.0,15,11,1,2026-01-18,1
+100,C00100,"Saeng Thong Development Co., Ltd.",0723977406331,Contractor,Chonburi,East,089-327-3440,sales@saengthongdevelopm.co.th,1740000.0,45,5,1,2021-08-14,1
+101,C00101,Kittipong Hardware Shop,1543107427997,Retail,Chonburi,East,087-574-3271,account@kittiponghardware.co.th,290000.0,0,15,1,2026-02-21,1
+102,C00102,"Thawee Home Center Co., Ltd.",0105319508505,Retail,Bangkok,Central,02-213-7274,info@thaweehomecenter.co.th,190000.0,30,5,1,2023-01-31,1
+103,C00103,Nattaya Home Mart,3335548640153,Retail,Bangkok,Central,02-453-8412,account@nattayahomemart.co.th,230000.0,0,19,1,2026-05-05,1
+104,C00104,Wichai Construction Shop,1411241272381,Retail,Bangkok,Central,02-742-1371,info@wichaiconstruction.co.th,70000.0,30,21,1,2017-12-24,1
+105,C00105,"Thawee Construction Co., Ltd.",0105695579880,Contractor,Bangkok,Central,02-555-8503,info@thaweeconstruction.co.th,1360000.0,60,8,1,2022-10-30,1
+106,C00106,"Thanakit Home Center Co., Ltd.",0105842222310,Retail,Bangkok,Central,02-142-6187,purchase@thanakithomecenter.co.th,280000.0,30,12,1,2023-12-09,1
+107,C00107,"Rungrueang Engineering Co., Ltd.",0136727520886,Contractor,Chonburi,East,084-585-5748,purchase@rungrueangengineer.co.th,420000.0,60,18,1,2025-11-05,1
+108,C00108,Somsak Construction Shop,2093983430186,Retail,Samut Prakan,Central,02-969-8298,sales@somsakconstruction.co.th,140000.0,30,10,1,2022-01-01,1
+109,C00109,Jiraporn Home Center,2781376742667,Retail,Pathum Thani,Central,02-242-2410,purchase@jirapornhomecenter.co.th,140000.0,0,13,1,2020-03-11,1
+110,C00110,"Charoen Construction Shop Co., Ltd.",0822326487047,Retail,Chiang Mai,North,051-605-672,account@charoenconstructio.co.th,190000.0,0,4,2,2018-12-18,1
+111,C00111,"Chokdee Interior Co., Ltd.",0983014719597,Contractor,Chiang Mai,North,059-989-364,account@chokdeeinterior.co.th,1090000.0,60,7,2,2019-01-05,1
+112,C00112,Orawan Hardware,2650448183219,Retail,Ubon Ratchathani,Northeast,042-656-430,info@orawanhardware.co.th,60000.0,15,12,3,2025-06-17,1
+113,C00113,"Rungrueang Technic Co., Ltd.",0301328338981,Contractor,Chonburi,East,077-664-819,sales@rungrueangtechnic.co.th,940000.0,45,18,1,2022-06-10,1
+114,C00114,Ratchanee Home Center,2240132234232,Retail,Bangkok,Central,02-233-2287,account@ratchaneehomecente.co.th,180000.0,0,6,1,2023-09-14,1
+115,C00115,"Ruamjai Hardware Co., Ltd.",0950119393257,Retail,Nakhon Pathom,Central,082-966-5544,info@ruamjaihardware2.co.th,70000.0,15,9,1,2017-06-27,1
+116,C00116,Mongkol Construction Limited Partnership,0318013875927,Contractor,Khon Kaen,Northeast,038-285-954,info@mongkolconstructio.co.th,1940000.0,45,17,3,2019-02-24,1
+117,C00117,"Metro Trading Co., Ltd.",0105015716477,Wholesale,Bangkok,Central,02-714-6111,account@metrotrading.co.th,2440000.0,45,21,1,2024-11-26,1
+118,C00118,"United Distribution Co., Ltd.",0761126691210,Wholesale,Kanchanaburi,West,083-446-4281,account@uniteddistribution.co.th,2980000.0,30,11,1,2018-03-07,1
+119,C00119,Boonmee Development Limited Partnership,0876784271141,Contractor,Nakhon Ratchasima,Northeast,046-743-237,sales@boonmeedevelopment2.co.th,1060000.0,30,5,3,2020-12-29,1
+120,C00120,Thongchai Hardware Limited Partnership,0744858800613,Retail,Khon Kaen,Northeast,085-973-7165,account@thongchaihardware.co.th,170000.0,30,5,3,2024-06-04,1
+121,C00121,Chaiwat Home Mart,2889778280648,Retail,Nonthaburi,Central,02-606-7189,info@chaiwathomemart.co.th,190000.0,15,14,1,2018-03-25,1
+122,C00122,Pimchanok Hardware Shop,1349114152083,Retail,Kanchanaburi,West,087-773-7921,account@pimchanokhardware.co.th,220000.0,15,4,1,2017-08-20,1
+123,C00123,Narong Hardware Shop,3529456371832,Retail,Nakhon Ratchasima,Northeast,080-404-7586,purchase@naronghardware.co.th,130000.0,0,7,3,2025-07-30,1
+124,C00124,"Suwan Construction Co., Ltd.",0614987820824,Contractor,Nonthaburi,Central,02-690-9178,purchase@suwanconstruction.co.th,560000.0,60,18,1,2020-07-07,1
+125,C00125,"Thanakit Distribution Co., Ltd.",0486651364428,Wholesale,Pathum Thani,Central,02-362-4868,account@thanakitdistributi.co.th,4730000.0,45,7,1,2025-06-04,1
+126,C00126,"Isan Hardware Shop Co., Ltd.",0434820700151,Retail,Surat Thani,South,036-516-472,sales@isanhardware.co.th,80000.0,30,8,1,2020-01-23,1
+127,C00127,"Thongchai Construction Shop Co., Ltd.",0505963632124,Retail,Ubon Ratchathani,Northeast,084-550-7690,info@thongchaiconstruct.co.th,240000.0,0,19,3,2018-05-16,1
+128,C00128,Wattana Contractor Limited Partnership,0574090034863,Contractor,Ubon Ratchathani,Northeast,085-931-2999,purchase@wattanacontractor2.co.th,1060000.0,45,16,3,2021-01-26,1
+129,C00129,Charoen Materials Limited Partnership,0905604177654,Wholesale,Khon Kaen,Northeast,038-944-264,info@charoenmaterials.co.th,5580000.0,30,15,3,2018-10-19,1
+130,C00130,"Kittikun Hardware Co., Ltd.",0495911238299,Retail,Khon Kaen,Northeast,052-562-589,purchase@kittikunhardware.co.th,100000.0,15,9,3,2026-02-15,1
+131,C00131,Supaporn Hardware Shop,1893173420692,Retail,Ubon Ratchathani,Northeast,048-252-191,info@supapornhardware.co.th,110000.0,0,7,3,2023-05-26,1
+132,C00132,"Sahamit Hardware Trading Co., Ltd.",0736263934364,Wholesale,Lampang,North,082-129-5754,info@sahamithardwaretra.co.th,2440000.0,45,18,2,2025-09-30,1
+133,C00133,"Chokdee Construction Co., Ltd.",0596941180051,Contractor,Nonthaburi,Central,02-340-8715,info@chokdeeconstructio.co.th,580000.0,60,5,1,2024-09-14,1
+134,C00134,"United Hardware Trading Co., Ltd.",0747572158629,Wholesale,Ubon Ratchathani,Northeast,085-145-3095,account@unitedhardwaretrad.co.th,2300000.0,60,15,3,2025-07-03,1
+135,C00135,"Sombat Technic Co., Ltd.",0298703203202,Contractor,Samut Prakan,Central,02-581-5263,purchase@sombattechnic.co.th,1570000.0,60,18,1,2026-05-19,1
+136,C00136,"Sahamit Home Center Co., Ltd.",0105134228492,Retail,Bangkok,Central,02-779-4479,sales@sahamithomecenter.co.th,80000.0,0,17,1,2018-08-30,1
+137,C00137,Kittipong Home Center,2905097592300,Retail,Nakhon Pathom,Central,050-430-917,sales@kittiponghomecente.co.th,160000.0,0,21,1,2022-05-20,1
+138,C00138,Ekkachai Hardware Shop,3214764925152,Retail,Bangkok,Central,02-624-4274,account@ekkachaihardware.co.th,210000.0,30,16,1,2020-03-13,1
+139,C00139,"United Technic Co., Ltd.",0693278814767,Contractor,Samut Prakan,Central,02-181-8825,info@unitedtechnic.co.th,1120000.0,30,8,1,2017-06-15,1
+140,C00140,Phongsakorn Hardware,3722601645979,Retail,Pathum Thani,Central,02-875-8371,info@phongsakornhardwar2.co.th,50000.0,15,9,1,2022-08-25,1
+141,C00141,Somchai Hardware,3974995641226,Retail,Bangkok,Central,02-114-4126,sales@somchaihardware.co.th,150000.0,0,10,1,2024-10-04,1
+142,C00142,"Nakhon Contractor Co., Ltd.",0242277707935,Contractor,Nonthaburi,Central,02-306-5830,account@nakhoncontractor.co.th,960000.0,30,14,1,2022-04-26,1
+143,C00143,"Thawee Distribution Co., Ltd.",0723080695813,Wholesale,Samut Prakan,Central,02-374-7834,account@thaweedistribution.co.th,5680000.0,30,19,1,2023-11-10,1
+144,C00144,Surasak Hardware Shop,3724665729342,Retail,Phra Nakhon Si Ayutthaya,Central,037-783-594,purchase@surasakhardware.co.th,130000.0,0,10,1,2024-09-06,1
+145,C00145,"Suwan Distribution Co., Ltd.",0552280156194,Wholesale,Chonburi,East,088-329-8968,info@suwandistribution.co.th,5400000.0,60,15,1,2021-01-09,1
+146,C00146,"Ruamjai Hardware Trading Co., Ltd.",0105119918084,Wholesale,Bangkok,Central,02-207-3736,sales@ruamjaihardwaretra.co.th,4990000.0,45,15,1,2026-03-25,1
+147,C00147,"Mongkol Interior Co., Ltd.",0666037548212,Contractor,Pathum Thani,Central,02-372-7101,account@mongkolinterior.co.th,1730000.0,45,11,1,2018-05-19,1
+148,C00148,Sasithorn Hardware Shop,2072081155628,Retail,Surat Thani,South,057-877-137,purchase@sasithornhardware.co.th,250000.0,0,20,1,2022-10-16,1
+149,C00149,"Suwan Technic Co., Ltd.",0882673899751,Contractor,Nonthaburi,Central,02-931-7627,purchase@suwantechnic.co.th,1820000.0,45,6,1,2020-02-20,1
+150,C00150,"Thongchai Builders Public Co., Ltd.",0105520089433,Contractor,Bangkok,Central,02-952-5979,account@thongchaibuilders.co.th,760000.0,60,7,1,2026-07-20,1
+151,C00151,"Siam Interior Co., Ltd.",0908935449263,Contractor,Ratchaburi,West,047-207-435,purchase@siaminterior.co.th,1220000.0,45,18,1,2023-07-11,1
+152,C00152,Chaiwat Hardware,2988649767760,Retail,Nakhon Pathom,Central,041-617-230,account@chaiwathardware.co.th,220000.0,30,8,1,2021-02-21,1
+153,C00153,"Chokdee Contractor Co., Ltd.",0105611594084,Contractor,Bangkok,Central,02-256-2929,info@chokdeecontractor.co.th,1280000.0,45,15,1,2018-05-02,1
+154,C00154,Siriporn Construction Shop,3510679497561,Retail,Ubon Ratchathani,Northeast,070-235-880,purchase@siripornconstructi.co.th,50000.0,30,18,3,2022-06-26,1
+155,C00155,"Lanna Construction Shop Co., Ltd.",0664120948182,Retail,Surat Thani,South,089-654-1866,purchase@lannaconstruction.co.th,290000.0,30,20,1,2017-07-07,1
+156,C00156,Ekkachai Hardware,3956907056263,Retail,Bangkok,Central,02-124-9649,info@ekkachaihardware2.co.th,160000.0,30,12,1,2023-07-02,1
+157,C00157,Kittipong Home Mart,3520046152652,Retail,Bangkok,Central,02-364-7152,sales@kittiponghomemart.co.th,90000.0,0,10,1,2024-08-11,1
+158,C00158,Eastern Development Limited Partnership,0105706304890,Contractor,Bangkok,Central,02-791-2663,purchase@easterndevelopment2.co.th,930000.0,60,8,1,2023-03-16,1
+159,C00159,"Rungrueang Builders Co., Ltd.",0817007942001,Contractor,Ratchaburi,West,062-379-712,info@rungrueangbuilders.co.th,1910000.0,60,16,1,2023-01-11,1
+160,C00160,"Saeng Thong Construction Co., Ltd.",0278463985546,Contractor,Chonburi,East,077-563-379,purchase@saengthongconstruc.co.th,1460000.0,60,14,1,2021-06-08,1
+161,C00161,"Siam Home Mart Co., Ltd.",0105768118071,Retail,Bangkok,Central,02-788-3022,info@siamhomemart.co.th,150000.0,30,15,1,2025-06-27,1
+162,C00162,"Andaman Supply Co., Ltd.",0553194337501,Wholesale,Nakhon Sawan,North,089-314-1116,purchase@andamansupply.co.th,5610000.0,90,7,2,2024-08-19,1
+163,C00163,"Kittikun Interior Co., Ltd.",0105384308949,Contractor,Bangkok,Central,02-797-8437,sales@kittikuninterior.co.th,1880000.0,45,5,1,2025-09-23,1
+164,C00164,"Metro Hardware Co., Ltd.",0638750635195,Retail,Chonburi,East,046-806-533,sales@metrohardware.co.th,60000.0,0,10,1,2025-08-18,1
+165,C00165,Somsak Hardware Shop,1173505831996,Retail,Rayong,East,038-740-557,sales@somsakhardware2.co.th,260000.0,0,5,1,2020-10-01,1
+166,C00166,"Thai Pattana Technic Co., Ltd.",0960804661962,Contractor,Nakhon Ratchasima,Northeast,089-906-1173,account@thaipattanatechnic.co.th,320000.0,45,18,3,2026-03-19,1
+167,C00167,Nattaya Hardware,1939284567971,Retail,Rayong,East,082-916-1722,sales@nattayahardware2.co.th,200000.0,0,13,1,2025-01-13,1
+168,C00168,"Rungrueang Construction Shop Co., Ltd.",0769203880651,Retail,Nonthaburi,Central,02-300-4282,purchase@rungrueangconstruc.co.th,290000.0,0,14,1,2021-02-19,1
+169,C00169,Golden Interior Limited Partnership,0301707303379,Contractor,Chonburi,East,047-592-852,info@goldeninterior.co.th,950000.0,60,16,1,2020-05-12,1
+170,C00170,Thanakorn Hardware,2003342342583,Retail,Bangkok,Central,02-351-3925,purchase@thanakornhardware.co.th,200000.0,0,9,1,2024-01-30,1
+171,C00171,Thongchai Home Center Limited Partnership,0263386559636,Retail,Kanchanaburi,West,071-701-293,info@thongchaihomecente.co.th,80000.0,0,14,1,2017-09-25,1
+172,C00172,"Sahamit Construction Shop Co., Ltd.",0105286857875,Retail,Bangkok,Central,02-283-6272,info@sahamitconstructio.co.th,200000.0,30,19,1,2024-06-10,1
+173,C00173,"Chaiyo Interior Co., Ltd.",0496692548124,Contractor,Surat Thani,South,050-555-631,info@chaiyointerior.co.th,910000.0,30,5,1,2019-08-19,1
+174,C00174,United Contractor Limited Partnership,0431514888145,Contractor,Nonthaburi,Central,02-333-2612,sales@unitedcontractor.co.th,1000000.0,30,15,1,2019-01-06,1
+175,C00175,"Boonmee Home Center Co., Ltd.",0114456690789,Retail,Rayong,East,041-986-507,purchase@boonmeehomecenter.co.th,280000.0,0,10,1,2026-07-11,1
+176,C00176,"Metro Interior Co., Ltd.",0105637780527,Contractor,Bangkok,Central,02-691-3102,info@metrointerior.co.th,1590000.0,60,4,1,2021-10-23,1
+177,C00177,Northern Hardware Shop Limited Partnership,0142259999661,Retail,Chiang Mai,North,086-165-9757,account@northernhardware.co.th,60000.0,0,19,2,2023-08-02,1
+178,C00178,"Saeng Thong Trading Co., Ltd.",0351643348172,Wholesale,Chonburi,East,088-111-3815,info@saengthongtrading.co.th,1130000.0,90,16,1,2026-05-16,1
+179,C00179,Eastern Construction Limited Partnership,0957299493871,Contractor,Udon Thani,Northeast,080-246-8302,sales@easternconstructio.co.th,760000.0,45,11,3,2025-07-30,1
+180,C00180,"Chaiyo Development Co., Ltd.",0105469263290,Contractor,Bangkok,Central,02-850-8079,account@chaiyodevelopment.co.th,820000.0,45,9,1,2022-02-13,1
+181,C00181,Malee Home Mart,2815118567245,Retail,Chiang Mai,North,080-573-1437,sales@maleehomemart.co.th,280000.0,30,16,2,2025-08-11,1
+182,C00182,"Metro Home Center Co., Ltd.",0105727422093,Retail,Bangkok,Central,02-202-3903,info@metrohomecenter.co.th,230000.0,0,21,1,2019-09-20,1
+183,C00183,Pimchanok Home Center,2081647090063,Retail,Bangkok,Central,02-885-4305,purchase@pimchanokhomecente.co.th,180000.0,15,11,1,2024-07-27,1
+184,C00184,Narong Hardware,1866133155206,Retail,Nakhon Ratchasima,Northeast,052-112-498,purchase@naronghardware2.co.th,100000.0,30,11,3,2024-01-12,1
+185,C00185,"Lanna Hardware Co., Ltd.",0822419562529,Retail,Rayong,East,076-425-971,account@lannahardware.co.th,230000.0,0,14,1,2018-02-22,1
+186,C00186,"Udom Interior Co., Ltd.",0254363910257,Contractor,Chiang Rai,North,044-255-484,purchase@udominterior.co.th,1310000.0,60,5,2,2025-01-22,1
+187,C00187,Kanokwan Home Center,2403553380333,Retail,Chiang Mai,North,056-633-429,purchase@kanokwanhomecenter.co.th,250000.0,30,4,2,2022-11-04,1
+188,C00188,"Thai Pattana Home Mart Co., Ltd.",0206742336291,Retail,Rayong,East,084-690-8344,purchase@thaipattanahomemar.co.th,110000.0,15,19,1,2019-04-18,1
+189,C00189,Jiraporn Hardware Shop,2614982824674,Retail,Khon Kaen,Northeast,084-484-8878,sales@jirapornhardware.co.th,50000.0,15,8,3,2022-05-29,1
+190,C00190,"United Construction Shop Co., Ltd.",0499160169237,Retail,Songkhla,South,048-889-869,info@unitedconstruction2.co.th,150000.0,30,15,1,2021-03-09,1
+191,C00191,"Chokdee Builders Co., Ltd.",0952497243991,Contractor,Nakhon Ratchasima,Northeast,042-112-219,sales@chokdeebuilders.co.th,250000.0,60,16,3,2024-08-02,1
+192,C00192,"Isan Builders Co., Ltd.",0946946119527,Contractor,Samut Prakan,Central,02-375-4432,account@isanbuilders.co.th,1940000.0,60,13,1,2022-08-13,1
+193,C00193,"Thawee Hardware Shop Co., Ltd.",0105728179320,Retail,Bangkok,Central,02-305-1966,purchase@thaweehardware.co.th,80000.0,0,12,1,2024-11-23,1
+194,C00194,"Eastern Construction Co., Ltd.",0105100409010,Contractor,Bangkok,Central,02-316-9557,sales@easternconstructio2.co.th,1060000.0,45,20,1,2025-08-29,1
+195,C00195,"Isan Development Co., Ltd.",0566690551071,Contractor,Chiang Mai,North,057-842-955,purchase@isandevelopment.co.th,1670000.0,30,7,2,2020-07-15,1
+196,C00196,"Andaman Materials Co., Ltd.",0105050573971,Wholesale,Chiang Mai,North,071-913-183,info@andamanmaterials.co.th,4300000.0,90,19,2,2021-08-20,1
+197,C00197,Sompong Construction Shop,2148727178337,Retail,Udon Thani,Northeast,081-208-8125,sales@sompongconstructio.co.th,60000.0,0,14,3,2022-08-29,1
+198,C00198,"Sukjai Hardware Shop Co., Ltd.",0985399156689,Retail,Songkhla,South,059-927-338,purchase@sukjaihardware2.co.th,70000.0,15,7,1,2022-07-09,1
+199,C00199,"Sukjai Builders Co., Ltd.",0105040983661,Contractor,Bangkok,Central,02-427-6980,purchase@sukjaibuilders.co.th,1240000.0,60,11,1,2021-04-07,1
+200,C00200,Rungrueang Home Mart Limited Partnership,0498149737461,Retail,Udon Thani,Northeast,085-256-4450,purchase@rungrueanghomemart.co.th,200000.0,0,9,3,2017-05-21,1
+201,C00201,"Rattana Supply Co., Ltd.",0601844386125,Wholesale,Nonthaburi,Central,02-431-1886,info@rattanasupply.co.th,4790000.0,90,9,1,2020-11-27,1
+202,C00202,Pornchai Supply Limited Partnership,0105912662011,Wholesale,Bangkok,Central,02-464-8763,purchase@pornchaisupply.co.th,4630000.0,30,7,1,2021-01-23,1
+203,C00203,Thanakorn Hardware Shop,1617647501111,Retail,Bangkok,Central,02-224-9015,purchase@thanakornhardware2.co.th,200000.0,0,19,1,2024-09-18,1
+204,C00204,Nakhon Hardware Shop Limited Partnership,0931312920876,Retail,Chonburi,East,039-140-231,purchase@nakhonhardware.co.th,180000.0,0,6,1,2026-08-22,1
+205,C00205,"Nakhon Engineering Co., Ltd.",0764872975859,Contractor,Ratchaburi,West,064-314-804,sales@nakhonengineering.co.th,740000.0,60,5,1,2019-10-15,1
+206,C00206,"Pornchai Supply Co., Ltd.",0105446267141,Wholesale,Bangkok,Central,02-792-7968,purchase@pornchaisupply2.co.th,1370000.0,45,6,1,2021-09-25,1
+207,C00207,"United Interior Co., Ltd.",0295660931411,Contractor,Chiang Mai,North,075-661-516,sales@unitedinterior.co.th,960000.0,45,6,2,2018-11-03,1
+208,C00208,"Boonmee Supply Co., Ltd.",0252849718597,Wholesale,Pathum Thani,Central,02-986-5620,info@boonmeesupply.co.th,5760000.0,30,5,1,2021-03-31,1
+209,C00209,"Northern Construction Shop Co., Ltd.",0105226940539,Retail,Bangkok,Central,02-794-7852,account@northernconstructi.co.th,230000.0,0,18,1,2026-06-10,1
+210,C00210,"Udom Industrial Supply Co., Ltd.",0211131290141,Wholesale,Udon Thani,Northeast,063-927-995,sales@udomindustrialsupp.co.th,4850000.0,90,20,3,2021-07-24,1
+211,C00211,"Nakhon Interior Co., Ltd.",0998538909721,Contractor,Samut Prakan,Central,02-790-9577,purchase@nakhoninterior.co.th,1490000.0,30,6,1,2017-01-30,1
+212,C00212,Ratchanee Hardware Shop,3144744309635,Retail,Phuket,South,073-627-945,sales@ratchaneehardware.co.th,110000.0,30,19,1,2024-08-13,1
+213,C00213,Ratchanee Home Mart,2177225605319,Retail,Nonthaburi,Central,02-294-5667,sales@ratchaneehomemart.co.th,180000.0,0,16,1,2019-01-17,1
+214,C00214,"Boonmee Hardware Trading Co., Ltd.",0516862110221,Wholesale,Phra Nakhon Si Ayutthaya,Central,080-885-4874,sales@boonmeehardwaretra.co.th,4570000.0,60,17,1,2024-08-24,1
+215,C00215,"Ruamjai Home Mart Co., Ltd.",0105363718927,Retail,Bangkok,Central,02-293-3436,purchase@ruamjaihomemart.co.th,300000.0,0,8,1,2025-09-27,1
+216,C00216,Charoen Hardware Limited Partnership,0393567086046,Retail,Pathum Thani,Central,02-212-5411,info@charoenhardware2.co.th,210000.0,15,15,1,2024-11-07,1
+217,C00217,Kanokwan Hardware,1475541108254,Retail,Bangkok,Central,02-469-6920,info@kanokwanhardware2.co.th,80000.0,0,12,1,2023-10-21,1
+218,C00218,Arthit Construction Shop,3954738202363,Retail,Bangkok,Central,02-663-5137,info@arthitconstruction.co.th,70000.0,15,18,1,2018-02-09,1
+219,C00219,Ruamjai Development Limited Partnership,0105903678814,Contractor,Bangkok,Central,02-269-8172,account@ruamjaidevelopment.co.th,720000.0,60,16,1,2018-06-13,1
+220,C00220,Siam Home Mart Limited Partnership,0434344812308,Retail,Khon Kaen,Northeast,050-140-754,purchase@siamhomemart2.co.th,230000.0,15,8,3,2024-12-08,1
+221,C00221,"Prosper Construction Shop Co., Ltd.",0884500534248,Retail,Chiang Rai,North,066-773-988,sales@prosperconstructio.co.th,150000.0,30,12,2,2018-07-02,1
+222,C00222,"Prosper Supply Co., Ltd.",0396527172726,Wholesale,Rayong,East,043-293-683,account@prospersupply.co.th,1780000.0,45,13,1,2021-06-08,1
+223,C00223,Benjawan Hardware Shop,2601002314292,Retail,Bangkok,Central,02-113-1153,sales@benjawanhardware.co.th,200000.0,15,6,1,2017-02-18,1
+224,C00224,Pornthip Home Mart,1001841862035,Retail,Bangkok,Central,02-124-4713,account@pornthiphomemart.co.th,210000.0,30,8,1,2025-10-01,1
+225,C00225,"Sukjai Interior Co., Ltd.",0885151092262,Contractor,Kanchanaburi,West,070-285-795,account@sukjaiinterior.co.th,840000.0,30,13,1,2020-02-29,1
+226,C00226,Sombat Hardware Shop Limited Partnership,0292526771194,Retail,Chiang Rai,North,049-248-192,info@sombathardware.co.th,270000.0,0,9,2,2025-01-03,1
+227,C00227,"Golden Contractor Co., Ltd.",0738878836196,Contractor,Phuket,South,065-691-895,purchase@goldencontractor.co.th,950000.0,60,6,1,2021-04-19,1
+228,C00228,Chaiwat Construction Shop,1472863330211,Retail,Songkhla,South,077-246-486,sales@chaiwatconstructio.co.th,140000.0,30,15,1,2025-12-24,1
+229,C00229,"Siam Construction Co., Ltd.",0278476570412,Contractor,Nakhon Ratchasima,Northeast,080-718-3843,purchase@siamconstruction2.co.th,1050000.0,30,16,3,2025-07-06,1
+230,C00230,Sombat Technic Limited Partnership,0441862369034,Contractor,Phra Nakhon Si Ayutthaya,Central,088-719-2264,account@sombattechnic2.co.th,1880000.0,45,14,1,2021-10-02,1
+231,C00231,"Phatthana Home Center Co., Ltd.",0105428113901,Retail,Bangkok,Central,02-874-6064,purchase@phatthanahomecente2.co.th,60000.0,0,5,1,2020-10-06,1
+232,C00232,"Siam Hardware Public Co., Ltd.",0605215681826,Retail,Khon Kaen,Northeast,086-588-1612,info@siamhardware2.co.th,100000.0,0,8,3,2022-08-11,1
+233,C00233,Rungrueang Hardware Trading Limited Partnership,0105985725455,Wholesale,Bangkok,Central,02-738-8059,sales@rungrueanghardware2.co.th,5960000.0,90,11,1,2022-10-16,1
+234,C00234,Mongkol Contractor Limited Partnership,0105171752426,Contractor,Bangkok,Central,02-169-5589,info@mongkolcontractor.co.th,1760000.0,45,6,1,2023-02-20,1
+235,C00235,Sukjai Supply Limited Partnership,0892758955167,Wholesale,Phra Nakhon Si Ayutthaya,Central,048-998-996,sales@sukjaisupply2.co.th,3000000.0,30,11,1,2020-03-20,1
+236,C00236,"Metro Construction Shop Co., Ltd.",0105365155971,Retail,Bangkok,Central,02-317-8802,sales@metroconstruction.co.th,240000.0,15,18,1,2026-02-11,1
+237,C00237,"Chaiyo Engineering Public Co., Ltd.",0703030644212,Contractor,Khon Kaen,Northeast,084-514-2338,info@chaiyoengineering.co.th,1620000.0,60,18,3,2026-01-06,1
+238,C00238,Jiraporn Hardware,2778265960891,Retail,Nonthaburi,Central,02-303-2274,purchase@jirapornhardware2.co.th,100000.0,15,14,1,2018-11-05,1
+239,C00239,Sukjai Engineering Limited Partnership,0267910336827,Contractor,Chiang Mai,North,045-456-314,purchase@sukjaiengineering.co.th,1980000.0,60,4,2,2017-01-16,1
+240,C00240,"Golden Construction Shop Co., Ltd.",0105286646491,Retail,Bangkok,Central,02-977-2625,sales@goldenconstruction.co.th,190000.0,0,6,1,2018-12-26,1
+241,C00241,"Ruamjai Contractor Co., Ltd.",0105786137154,Contractor,Bangkok,Central,02-912-8601,account@ruamjaicontractor.co.th,580000.0,60,16,1,2021-09-19,1
+242,C00242,Sasithorn Home Center,1258955296386,Retail,Chiang Mai,North,044-731-759,account@sasithornhomecente.co.th,60000.0,0,17,2,2026-03-01,1
+243,C00243,"Isan Home Center Co., Ltd.",0604825311061,Retail,Chiang Rai,North,089-256-1455,sales@isanhomecenter.co.th,210000.0,30,4,2,2025-05-02,1
+244,C00244,"Kittikun Engineering Co., Ltd.",0584041209116,Contractor,Surat Thani,South,070-225-209,purchase@kittikunengineerin.co.th,1710000.0,45,12,1,2023-01-03,1
+245,C00245,Duangjai Hardware,2722402990155,Retail,Phuket,South,062-728-714,sales@duangjaihardware.co.th,140000.0,0,20,1,2026-03-06,1
+246,C00246,Ekkachai Home Center,1447315847761,Retail,Bangkok,Central,02-624-7552,purchase@ekkachaihomecenter.co.th,230000.0,15,9,1,2025-03-27,1
+247,C00247,"Suwan Trading Co., Ltd.",0105694591967,Wholesale,Bangkok,Central,02-539-4272,info@suwantrading.co.th,5410000.0,60,6,1,2021-11-11,1
+248,C00248,Isan Home Mart Limited Partnership,0501050537951,Retail,Pathum Thani,Central,02-338-2085,account@isanhomemart.co.th,140000.0,15,10,1,2026-01-16,1
+249,C00249,"Sinsap Technic Co., Ltd.",0503307704619,Contractor,Chiang Mai,North,082-715-6355,account@sinsaptechnic.co.th,770000.0,30,4,2,2021-11-18,1
+250,C00250,Chaiyo Distribution Limited Partnership,0226445561851,Wholesale,Songkhla,South,035-502-405,account@chaiyodistribution.co.th,1350000.0,90,7,1,2025-01-17,1
+251,C00251,United Home Mart Limited Partnership,0151041459644,Retail,Chonburi,East,040-697-571,sales@unitedhomemart2.co.th,110000.0,0,14,1,2025-02-23,1
+252,C00252,"Andaman Distribution Co., Ltd.",0455731441584,Wholesale,Chonburi,East,047-775-762,purchase@andamandistributio.co.th,4310000.0,30,6,1,2022-05-12,1
+253,C00253,"Phatthana Contractor Co., Ltd.",0504728123567,Contractor,Nonthaburi,Central,02-563-9412,purchase@phatthanacontracto.co.th,1130000.0,45,10,1,2022-12-02,1
+254,C00254,"Mongkol Industrial Supply Co., Ltd.",0682407875413,Wholesale,Ubon Ratchathani,Northeast,037-462-541,purchase@mongkolindustrials.co.th,1080000.0,45,16,3,2019-09-13,1
+255,C00255,"Isan Hardware Co., Ltd.",0105786103136,Retail,Bangkok,Central,02-217-1870,sales@isanhardware2.co.th,180000.0,15,11,1,2025-10-10,1
+256,C00256,"Northern Interior Co., Ltd.",0105323549407,Contractor,Bangkok,Central,02-196-4032,account@northerninterior.co.th,680000.0,60,13,1,2024-10-04,1
+257,C00257,"Kittikun Builders Co., Ltd.",0520241209574,Contractor,Nakhon Pathom,Central,063-994-353,account@kittikunbuilders.co.th,1050000.0,30,5,1,2024-06-21,1
+258,C00258,"Ruamjai Industrial Supply Co., Ltd.",0105577584743,Wholesale,Bangkok,Central,02-473-8516,sales@ruamjaiindustrials.co.th,5020000.0,60,13,1,2025-11-08,1
+259,C00259,"Chokdee Industrial Supply Co., Ltd.",0623257039659,Wholesale,Chiang Mai,North,081-298-7189,sales@chokdeeindustrials.co.th,1740000.0,60,21,2,2017-03-26,1
+260,C00260,Royal Engineering Limited Partnership,0159859167957,Contractor,Pathum Thani,Central,02-395-2805,sales@royalengineering.co.th,760000.0,45,8,1,2020-02-06,1
+261,C00261,"Saeng Thong Interior Co., Ltd.",0105349107401,Contractor,Bangkok,Central,02-540-6771,sales@saengthonginterior.co.th,1020000.0,30,12,1,2017-03-05,1
+262,C00262,Rungrueang Technic Limited Partnership,0204307536663,Contractor,Lampang,North,038-367-409,info@rungrueangtechnic2.co.th,980000.0,30,17,2,2025-07-21,1
+263,C00263,"Sombat Builders Co., Ltd.",0907826612871,Contractor,Chonburi,East,064-801-829,info@sombatbuilders.co.th,740000.0,45,15,1,2017-12-17,1
+264,C00264,Sasithorn Construction Shop,3852989406261,Retail,Bangkok,Central,02-786-1097,account@sasithornconstruct.co.th,250000.0,30,5,1,2025-11-06,1
+265,C00265,Chutima Hardware,3723244079316,Retail,Phitsanulok,North,082-718-2983,sales@chutimahardware.co.th,180000.0,0,10,2,2025-07-29,1
+266,C00266,Pornthip Hardware,3791620223285,Retail,Ratchaburi,West,066-305-587,account@pornthiphardware.co.th,120000.0,15,13,1,2023-02-18,1
+267,C00267,"Metro Construction Co., Ltd.",0590940970525,Contractor,Samut Prakan,Central,02-579-8509,info@metroconstruction2.co.th,420000.0,30,9,1,2026-04-14,1
+268,C00268,"Royal Home Mart Co., Ltd.",0944617679296,Retail,Chonburi,East,064-894-774,info@royalhomemart.co.th,120000.0,0,14,1,2018-07-28,1
+269,C00269,"Chaiyo Trading Co., Ltd.",0967533126612,Wholesale,Phitsanulok,North,084-217-1613,sales@chaiyotrading.co.th,1530000.0,90,15,2,2024-06-17,1
+270,C00270,Arthit Hardware Shop,1268319013026,Retail,Bangkok,Central,02-105-6891,account@arthithardware.co.th,120000.0,0,14,1,2024-08-12,1
+271,C00271,Phatthana Contractor Limited Partnership,0812176619121,Contractor,Chonburi,East,051-203-220,account@phatthanacontracto2.co.th,840000.0,30,5,1,2020-12-13,1
+272,C00272,"Eastern Materials Co., Ltd.",0105938984695,Wholesale,Bangkok,Central,02-158-9944,sales@easternmaterials.co.th,1370000.0,90,12,1,2020-03-25,1
+273,C00273,Wichai Hardware,1516991872401,Retail,Nakhon Ratchasima,Northeast,087-619-4690,info@wichaihardware.co.th,230000.0,30,19,3,2023-11-04,1
+274,C00274,Arthit Hardware,1870662668210,Retail,Chonburi,East,071-476-460,purchase@arthithardware2.co.th,220000.0,15,17,1,2024-08-25,1
+275,C00275,"Nakhon Hardware Shop Co., Ltd.",0190272405590,Retail,Kanchanaburi,West,047-399-232,account@nakhonhardware2.co.th,250000.0,30,7,1,2025-09-13,1
+276,C00276,"Udom Home Center Co., Ltd.",0933845881056,Retail,Nonthaburi,Central,02-520-8966,info@udomhomecenter.co.th,120000.0,0,10,1,2023-03-09,1
+277,C00277,Ratchanee Construction Shop,3771070449642,Retail,Phitsanulok,North,037-161-385,account@ratchaneeconstruct.co.th,290000.0,30,4,2,2017-05-27,1
+278,C00278,"Suwan Hardware Shop Co., Ltd.",0534930596608,Retail,Khon Kaen,Northeast,067-497-838,info@suwanhardware.co.th,240000.0,30,17,3,2023-10-30,1
+279,C00279,Thanawat Hardware Shop,1845960945445,Retail,Bangkok,Central,02-901-1202,sales@thanawathardware.co.th,70000.0,15,14,1,2025-10-08,1
+280,C00280,Pimchanok Hardware,3149851724444,Retail,Nakhon Pathom,Central,040-332-745,purchase@pimchanokhardware2.co.th,150000.0,0,5,1,2019-06-12,1
+281,C00281,"Prosper Contractor Co., Ltd.",0125809351181,Contractor,Lampang,North,064-179-342,purchase@prospercontractor.co.th,1960000.0,45,15,2,2025-09-23,1
+282,C00282,Golden Materials Limited Partnership,0305042901938,Wholesale,Surat Thani,South,064-832-899,info@goldenmaterials.co.th,4110000.0,45,16,1,2020-04-19,1
+283,C00283,Benjawan Construction Shop,2353537513767,Retail,Chonburi,East,085-673-9284,sales@benjawanconstructi.co.th,260000.0,15,19,1,2019-03-10,1
+284,C00284,Thai Pattana Technic Limited Partnership,0105294455110,Contractor,Bangkok,Central,02-518-7898,purchase@thaipattanatechnic2.co.th,1250000.0,60,19,1,2024-07-24,1
+285,C00285,"Chokdee Materials Co., Ltd.",0105212886651,Wholesale,Bangkok,Central,02-230-7591,purchase@chokdeematerials.co.th,1120000.0,60,7,1,2026-03-18,1
+286,C00286,"Chaiyo Construction Co., Ltd.",0654722981200,Contractor,Songkhla,South,055-790-764,account@chaiyoconstruction.co.th,1340000.0,45,14,1,2021-08-02,1
+287,C00287,"Udom Trading Co., Ltd.",0644565220363,Wholesale,Nonthaburi,Central,02-631-5558,info@udomtrading.co.th,3900000.0,30,15,1,2022-11-22,1
+288,C00288,"Udom Construction Shop Co., Ltd.",0105090883075,Retail,Bangkok,Central,02-952-1422,info@udomconstruction.co.th,240000.0,0,13,1,2022-09-15,1
+289,C00289,"Metro Technic Co., Ltd.",0105674124158,Contractor,Bangkok,Central,02-922-2295,purchase@metrotechnic.co.th,1000000.0,60,6,1,2018-05-07,1
+290,C00290,"Sinsap Development Co., Ltd.",0765380032960,Contractor,Nonthaburi,Central,02-993-4607,purchase@sinsapdevelopment.co.th,380000.0,45,19,1,2021-11-11,1
+291,C00291,Charoen Home Mart Limited Partnership,0728932064966,Retail,Udon Thani,Northeast,047-753-457,account@charoenhomemart.co.th,160000.0,0,13,3,2017-01-14,1
+292,C00292,"Chokdee Development Co., Ltd.",0105753612759,Contractor,Bangkok,Central,02-776-2860,info@chokdeedevelopment.co.th,960000.0,60,16,1,2020-03-22,1
+293,C00293,"Lanna Distribution Co., Ltd.",0105608545663,Wholesale,Bangkok,Central,02-928-8240,account@lannadistribution.co.th,5450000.0,90,12,1,2019-06-01,1
+294,C00294,Sasithorn Hardware,3199529800618,Retail,Bangkok,Central,02-899-6460,info@sasithornhardware2.co.th,100000.0,0,5,1,2023-01-05,1
+295,C00295,Surasak Construction Shop,1830008186708,Retail,Nonthaburi,Central,02-260-5638,info@surasakconstructio.co.th,130000.0,0,11,1,2026-01-18,1
+296,C00296,"Northern Distribution Co., Ltd.",0746008921961,Wholesale,Nakhon Sawan,North,089-979-6114,info@northerndistributi.co.th,1380000.0,90,20,2,2017-12-14,1
+297,C00297,"Eastern Construction Shop Co., Ltd.",0237390637577,Retail,Phra Nakhon Si Ayutthaya,Central,073-418-440,purchase@easternconstructio3.co.th,240000.0,0,7,1,2021-03-07,1
+298,C00298,"Rungrueang Construction Co., Ltd.",0177464520598,Contractor,Nakhon Ratchasima,Northeast,032-374-806,purchase@rungrueangconstruc2.co.th,1570000.0,60,19,3,2023-05-10,1
+299,C00299,Charoen Hardware Shop Limited Partnership,0308123710671,Retail,Samut Prakan,Central,02-274-9594,account@charoenhardware3.co.th,240000.0,0,21,1,2025-05-11,1
+300,C00300,"United Industrial Supply Co., Ltd.",0105958947736,Wholesale,Bangkok,Central,02-438-3217,purchase@unitedindustrialsu.co.th,2020000.0,90,4,1,2024-09-06,1
+301,C00301,"Mongkol Supply Co., Ltd.",0185835034465,Wholesale,Nonthaburi,Central,02-698-6009,info@mongkolsupply.co.th,3970000.0,90,12,1,2026-04-25,1
+302,C00302,"Pornchai Construction Co., Ltd.",0105659994970,Contractor,Bangkok,Central,02-314-3754,sales@pornchaiconstructi3.co.th,1260000.0,30,10,1,2026-06-19,1
+303,C00303,Prasert Hardware,2481386667547,Retail,Bangkok,Central,02-958-9552,info@praserthardware.co.th,220000.0,0,10,1,2021-10-09,1
+304,C00304,"Isan Technic Co., Ltd.",0655205756394,Contractor,Phra Nakhon Si Ayutthaya,Central,044-491-483,purchase@isantechnic.co.th,420000.0,60,4,1,2024-09-08,1
+305,C00305,Mongkol Engineering Limited Partnership,0144760440908,Contractor,Songkhla,South,062-722-747,account@mongkolengineering.co.th,1290000.0,45,9,1,2017-02-23,1
+306,C00306,"United Trading Co., Ltd.",0261610705180,Wholesale,Surat Thani,South,083-770-1273,info@unitedtrading.co.th,5350000.0,60,9,1,2025-07-01,1
+307,C00307,"Ruamjai Technic Co., Ltd.",0105386204482,Contractor,Bangkok,Central,02-459-2928,info@ruamjaitechnic.co.th,700000.0,45,6,1,2025-02-15,1
+308,C00308,"Pornchai Home Mart Co., Ltd.",0973240642427,Retail,Nakhon Pathom,Central,058-331-955,purchase@pornchaihomemart.co.th,130000.0,15,10,1,2019-10-08,1
+309,C00309,"Thongchai Home Center Co., Ltd.",0846289365439,Retail,Chachoengsao,East,088-664-5406,sales@thongchaihomecente2.co.th,290000.0,0,12,1,2017-05-31,1
+310,C00310,"Chaiyo Contractor Co., Ltd.",0105755125421,Contractor,Bangkok,Central,02-578-9958,purchase@chaiyocontractor.co.th,490000.0,30,18,1,2017-02-02,1
+311,C00311,"Golden Home Center Co., Ltd.",0741664969024,Retail,Samut Prakan,Central,02-624-3726,info@goldenhomecenter.co.th,240000.0,0,8,1,2025-08-28,1
+312,C00312,Rungrueang Materials Limited Partnership,0352441233618,Wholesale,Nakhon Pathom,Central,041-801-668,info@rungrueangmaterial.co.th,4290000.0,30,19,1,2025-01-01,1
+313,C00313,Eastern Home Mart Limited Partnership,0502654696818,Retail,Chiang Rai,North,089-127-4632,purchase@easternhomemart.co.th,150000.0,0,15,2,2018-01-28,1
+314,C00314,"Udom Hardware Trading Co., Ltd.",0105626244670,Wholesale,Bangkok,Central,02-135-5276,account@udomhardwaretradin.co.th,1460000.0,45,9,1,2021-11-19,1
+315,C00315,"Mongkol Materials Co., Ltd.",0838670766046,Wholesale,Samut Prakan,Central,02-535-5237,sales@mongkolmaterials.co.th,2600000.0,90,20,1,2018-10-21,1
+316,C00316,Nakhon Contractor Limited Partnership,0854389760745,Contractor,Udon Thani,Northeast,087-571-7014,sales@nakhoncontractor2.co.th,810000.0,60,15,3,2025-01-08,1
+317,C00317,"Boonmee Industrial Supply Co., Ltd.",0149150863214,Wholesale,Pathum Thani,Central,02-647-2549,purchase@boonmeeindustrials.co.th,2490000.0,45,19,1,2025-11-29,1
+318,C00318,"Thongchai Builders Co., Ltd.",0105168154661,Contractor,Bangkok,Central,02-122-4013,info@thongchaibuilders2.co.th,460000.0,60,6,1,2017-06-06,1
+319,C00319,"Ruamjai Home Center Co., Ltd.",0703642480962,Retail,Khon Kaen,Northeast,075-391-379,sales@ruamjaihomecenter.co.th,140000.0,30,10,3,2017-07-20,1
+320,C00320,Kanokwan Home Mart,3695867805556,Retail,Bangkok,Central,02-454-8280,purchase@kanokwanhomemart.co.th,260000.0,30,19,1,2023-11-01,1
+321,C00321,Orawan Home Center,3660487368265,Retail,Bangkok,Central,02-721-3023,sales@orawanhomecenter.co.th,210000.0,30,10,1,2018-11-14,1
+322,C00322,"Northern Hardware Trading Co., Ltd.",0561588863676,Wholesale,Pathum Thani,Central,02-874-8600,info@northernhardwaretr.co.th,2390000.0,90,9,1,2023-09-21,1
+323,C00323,"Metro Engineering Co., Ltd.",0636309329981,Contractor,Chiang Mai,North,070-684-849,account@metroengineering.co.th,1380000.0,30,14,2,2026-08-18,1
+324,C00324,"Rattana Engineering Co., Ltd.",0342753273526,Contractor,Ubon Ratchathani,Northeast,080-311-8555,account@rattanaengineering.co.th,1120000.0,30,18,3,2023-03-12,1
+325,C00325,"Saeng Thong Construction Shop Co., Ltd.",0628761648196,Retail,Phitsanulok,North,066-831-124,account@saengthongconstruc2.co.th,220000.0,30,5,2,2025-02-03,1
+326,C00326,"Northern Engineering Co., Ltd.",0232491256523,Contractor,Chonburi,East,062-315-370,sales@northernengineerin.co.th,1620000.0,45,6,1,2021-10-22,1
+327,C00327,"Thawee Engineering Co., Ltd.",0860228403599,Contractor,Nonthaburi,Central,02-471-5771,info@thaweeengineering.co.th,1220000.0,60,9,1,2019-11-23,1
+328,C00328,"Thai Pattana Builders Co., Ltd.",0379429045889,Contractor,Nonthaburi,Central,02-515-8814,purchase@thaipattanabuilder.co.th,610000.0,45,8,1,2024-02-22,1
+329,C00329,"Thongchai Hardware Shop Co., Ltd.",0533433249135,Retail,Phra Nakhon Si Ayutthaya,Central,087-683-1199,purchase@thongchaihardware2.co.th,290000.0,0,15,1,2024-07-02,1
+330,C00330,Kittipong Hardware,1423372094845,Retail,Phuket,South,083-850-2043,purchase@kittiponghardware2.co.th,180000.0,15,5,1,2026-08-04,1
+331,C00331,Nakhon Construction Limited Partnership,0105171731895,Contractor,Bangkok,Central,02-320-8982,info@nakhonconstruction.co.th,550000.0,60,4,1,2017-10-27,1
+332,C00332,"Phatthana Hardware Trading Co., Ltd.",0629472587849,Wholesale,Chiang Mai,North,051-370-988,purchase@phatthanahardwaret.co.th,2260000.0,60,12,2,2017-01-03,1
+333,C00333,Jiraporn Home Mart,3823133484581,Retail,Chiang Mai,North,075-407-724,purchase@jirapornhomemart.co.th,140000.0,0,14,2,2026-03-30,1
+334,C00334,"Saeng Thong Industrial Supply Co., Ltd.",0443474524557,Wholesale,Chonburi,East,052-560-415,account@saengthongindustri.co.th,4940000.0,90,17,1,2023-09-05,1
+335,C00335,"Boonmee Home Mart Co., Ltd.",0570566588337,Retail,Chiang Rai,North,060-976-380,sales@boonmeehomemart.co.th,120000.0,0,11,2,2019-11-15,1
+336,C00336,"Sahamit Interior Co., Ltd.",0915485741721,Contractor,Ratchaburi,West,036-432-893,account@sahamitinterior.co.th,380000.0,30,8,1,2017-08-31,1
+337,C00337,"Sombat Home Center Co., Ltd.",0185573257373,Retail,Nakhon Ratchasima,Northeast,083-793-5243,info@sombathomecenter.co.th,240000.0,0,8,3,2018-07-30,1
+338,C00338,"Thongchai Construction Co., Ltd.",0148587495118,Contractor,Ratchaburi,West,067-899-215,purchase@thongchaiconstruct2.co.th,990000.0,60,6,1,2023-05-07,1
+339,C00339,Isan Hardware Limited Partnership,0192957860693,Retail,Nakhon Pathom,Central,089-948-7388,sales@isanhardware3.co.th,210000.0,0,11,1,2018-09-16,1
+340,C00340,Phatthana Interior Limited Partnership,0283421089025,Contractor,Chonburi,East,036-435-991,info@phatthanainterior.co.th,470000.0,30,10,1,2023-06-21,1
+341,C00341,"Rattana Home Mart Co., Ltd.",0366077633698,Retail,Surat Thani,South,037-279-618,sales@rattanahomemart.co.th,60000.0,0,10,1,2021-03-17,1
+342,C00342,"Lanna Engineering Co., Ltd.",0751700666154,Contractor,Ratchaburi,West,084-956-2069,account@lannaengineering.co.th,1060000.0,60,13,1,2021-01-13,1
+343,C00343,Rattana Distribution Limited Partnership,0105329028221,Wholesale,Bangkok,Central,02-811-8697,sales@rattanadistributio.co.th,1230000.0,30,10,1,2020-08-17,1
+344,C00344,Pichai Home Mart,1207346549500,Retail,Songkhla,South,053-129-581,sales@pichaihomemart.co.th,100000.0,0,17,1,2024-07-01,1
+345,C00345,"Mongkol Builders Co., Ltd.",0707687290473,Contractor,Surat Thani,South,048-231-430,info@mongkolbuilders.co.th,400000.0,60,7,1,2025-03-09,1
+346,C00346,"Rungrueang Home Mart Co., Ltd.",0105913342452,Retail,Bangkok,Central,02-827-8571,info@rungrueanghomemart2.co.th,120000.0,0,14,1,2026-02-18,1
+347,C00347,"Eastern Trading Co., Ltd.",0143265097756,Wholesale,Khon Kaen,Northeast,089-515-8407,purchase@easterntrading.co.th,1710000.0,90,12,3,2017-02-28,1
+348,C00348,"Golden Engineering Public Co., Ltd.",0105715841568,Contractor,Bangkok,Central,02-757-1416,purchase@goldenengineering.co.th,1590000.0,30,11,1,2022-06-20,1
+349,C00349,"Royal Builders Co., Ltd.",0742683230358,Contractor,Samut Prakan,Central,02-638-3486,sales@royalbuilders.co.th,1940000.0,60,15,1,2017-12-06,1
+350,C00350,Nattapong Home Mart,3289634064682,Retail,Chiang Mai,North,062-579-429,purchase@nattaponghomemart.co.th,260000.0,15,4,2,2019-07-16,1
+351,C00351,"Sinsap Construction Shop Co., Ltd.",0416266933515,Retail,Samut Prakan,Central,02-331-5525,purchase@sinsapconstruction.co.th,240000.0,30,7,1,2025-06-14,1
+352,C00352,"Prosper Home Mart Co., Ltd.",0105973741892,Retail,Bangkok,Central,02-565-3517,sales@prosperhomemart.co.th,240000.0,15,12,1,2018-02-25,1
+353,C00353,Nattapong Hardware Shop,1811995376605,Retail,Ubon Ratchathani,Northeast,049-962-841,info@nattaponghardware.co.th,240000.0,15,20,3,2022-06-19,1
+354,C00354,"Udom Home Mart Co., Ltd.",0826986091918,Retail,Chiang Mai,North,039-882-344,info@udomhomemart.co.th,190000.0,30,16,2,2026-05-15,1
+355,C00355,"Golden Hardware Co., Ltd.",0425553470575,Retail,Songkhla,South,072-369-887,purchase@goldenhardware.co.th,260000.0,0,21,1,2022-02-14,1
+356,C00356,Kittikun Home Center Limited Partnership,0395411659725,Retail,Udon Thani,Northeast,044-371-976,account@kittikunhomecenter.co.th,180000.0,15,14,3,2023-11-30,1
+357,C00357,"Rattana Materials Co., Ltd.",0478826913117,Wholesale,Rayong,East,074-514-972,info@rattanamaterials.co.th,4210000.0,45,14,1,2024-11-08,1
+358,C00358,"Charoen Home Center Co., Ltd.",0105407333375,Retail,Bangkok,Central,02-763-4538,purchase@charoenhomecenter.co.th,190000.0,0,13,1,2019-10-05,1
+359,C00359,"Phatthana Distribution Co., Ltd.",0594546553582,Wholesale,Udon Thani,Northeast,082-429-5045,purchase@phatthanadistribut.co.th,3880000.0,30,20,3,2024-01-14,1
+360,C00360,"Royal Supply Co., Ltd.",0830797796129,Wholesale,Chiang Mai,North,087-672-1942,info@royalsupply.co.th,3330000.0,90,8,2,2019-07-07,1
+361,C00361,"Rattana Home Center Co., Ltd.",0377484539861,Retail,Phra Nakhon Si Ayutthaya,Central,088-797-6152,sales@rattanahomecenter.co.th,300000.0,0,15,1,2018-07-01,1
+362,C00362,Kittikun Builders Limited Partnership,0105169666721,Contractor,Bangkok,Central,02-967-6624,purchase@kittikunbuilders2.co.th,800000.0,30,13,1,2018-05-05,1
+363,C00363,"Royal Builders Public Co., Ltd.",0129080512086,Contractor,Chachoengsao,East,085-493-6017,sales@royalbuilders2.co.th,1140000.0,60,15,1,2018-01-21,1
+364,C00364,"Nakhon Builders Co., Ltd.",0832728270905,Contractor,Nonthaburi,Central,02-650-2970,info@nakhonbuilders.co.th,1280000.0,45,7,1,2018-09-26,1
+365,C00365,Golden Industrial Supply Limited Partnership,0248153523731,Wholesale,Songkhla,South,034-466-160,account@goldenindustrialsu.co.th,4920000.0,30,20,1,2021-05-12,1
+366,C00366,"Prosper Engineering Co., Ltd.",0656170715876,Contractor,Khon Kaen,Northeast,051-609-905,info@prosperengineering.co.th,970000.0,60,5,3,2024-01-10,1
+367,C00367,"Nakhon Construction Shop Co., Ltd.",0486358068829,Retail,Nonthaburi,Central,02-620-7075,sales@nakhonconstruction2.co.th,60000.0,0,7,1,2025-01-29,1
+368,C00368,Somchai Home Mart,2035263560229,Retail,Bangkok,Central,02-713-5033,info@somchaihomemart.co.th,80000.0,30,13,1,2024-09-24,1
+369,C00369,Somchai Hardware Shop,1311127128529,Retail,Chachoengsao,East,048-797-832,account@somchaihardware2.co.th,240000.0,15,21,1,2024-10-21,1
+370,C00370,"Sahamit Development Co., Ltd.",0390621136953,Contractor,Chonburi,East,041-552-711,sales@sahamitdevelopment.co.th,400000.0,60,20,1,2026-05-06,1
+371,C00371,Sombat Home Center Limited Partnership,0582481323578,Retail,Pathum Thani,Central,02-125-8217,sales@sombathomecenter2.co.th,60000.0,0,20,1,2024-03-23,1
+372,C00372,"Sinsap Hardware Co., Ltd.",0469673794576,Retail,Nakhon Ratchasima,Northeast,041-565-649,info@sinsaphardware.co.th,210000.0,0,8,3,2023-05-30,1
+373,C00373,"United Home Center Co., Ltd.",0793625366677,Retail,Samut Prakan,Central,02-851-8410,account@unitedhomecenter.co.th,160000.0,30,18,1,2017-06-24,1
+374,C00374,"Wattana Builders Co., Ltd.",0105865436278,Contractor,Bangkok,Central,02-211-9893,account@wattanabuilders.co.th,1820000.0,45,17,1,2026-01-08,1
+375,C00375,"Kittikun Hardware Shop Co., Ltd.",0833265732757,Retail,Nakhon Sawan,North,071-643-852,sales@kittikunhardware2.co.th,210000.0,0,6,2,2018-10-01,1
+376,C00376,"Andaman Construction Shop Co., Ltd.",0302261896287,Retail,Chiang Rai,North,062-816-387,purchase@andamanconstructio2.co.th,250000.0,0,8,2,2018-02-20,1
+377,C00377,Saeng Thong Contractor Limited Partnership,0849270795511,Contractor,Rayong,East,036-281-238,info@saengthongcontract.co.th,1880000.0,60,16,1,2021-01-24,1
+378,C00378,"Royal Trading Co., Ltd.",0315438480751,Wholesale,Nakhon Ratchasima,Northeast,035-764-344,info@royaltrading.co.th,3090000.0,60,18,3,2026-08-28,1
+379,C00379,"Charoen Contractor Co., Ltd.",0105904637666,Contractor,Bangkok,Central,02-136-5428,account@charoencontractor.co.th,220000.0,45,15,1,2024-01-01,1
+380,C00380,"Sukjai Home Center Co., Ltd.",0105512931104,Retail,Bangkok,Central,02-840-1220,info@sukjaihomecenter.co.th,70000.0,0,8,1,2019-09-23,1
+381,C00381,"Mongkol Engineering Co., Ltd.",0105106330164,Contractor,Bangkok,Central,02-428-9672,purchase@mongkolengineering2.co.th,530000.0,45,10,1,2025-03-25,1
+382,C00382,"Siam Development Co., Ltd.",0341132532695,Contractor,Ratchaburi,West,086-618-5676,purchase@siamdevelopment.co.th,1240000.0,45,12,1,2023-01-30,1
+383,C00383,"Sombat Interior Co., Ltd.",0105096170151,Contractor,Bangkok,Central,02-702-6922,sales@sombatinterior.co.th,820000.0,60,12,1,2026-05-21,1
+384,C00384,"Sahamit Materials Co., Ltd.",0310567756774,Wholesale,Phra Nakhon Si Ayutthaya,Central,041-855-868,account@sahamitmaterials2.co.th,2140000.0,90,4,1,2019-02-19,1
+385,C00385,"Northern Supply Co., Ltd.",0333106724533,Wholesale,Samut Prakan,Central,02-122-9148,account@northernsupply.co.th,1760000.0,45,13,1,2018-12-09,1
+386,C00386,"Isan Construction Shop Co., Ltd.",0231579423874,Retail,Udon Thani,Northeast,058-602-113,info@isanconstruction.co.th,60000.0,0,14,3,2024-06-20,1
+387,C00387,"Golden Home Mart Co., Ltd.",0701075633536,Retail,Nakhon Ratchasima,Northeast,052-749-587,info@goldenhomemart.co.th,190000.0,15,14,3,2021-02-22,1
+388,C00388,"Udom Development Co., Ltd.",0700581629519,Contractor,Rayong,East,061-717-845,info@udomdevelopment2.co.th,1080000.0,30,18,1,2019-10-18,1
+389,C00389,"Thanakit Engineering Co., Ltd.",0105782457596,Contractor,Bangkok,Central,02-649-4277,purchase@thanakitengineerin.co.th,1680000.0,60,7,1,2025-12-31,1
+390,C00390,"Thawee Development Co., Ltd.",0362400615729,Contractor,Pathum Thani,Central,02-557-7259,purchase@thaweedevelopment.co.th,740000.0,60,18,1,2017-02-14,1
+391,C00391,"Eastern Home Center Co., Ltd.",0880459908025,Retail,Chachoengsao,East,036-243-255,sales@easternhomecenter.co.th,90000.0,0,11,1,2021-06-09,1
+392,C00392,"Northern Hardware Co., Ltd.",0244330800371,Retail,Chonburi,East,083-876-4811,purchase@northernhardware2.co.th,160000.0,0,20,1,2025-08-01,1
+393,C00393,"Chaiyo Hardware Shop Co., Ltd.",0105195826322,Retail,Bangkok,Central,02-649-1120,info@chaiyohardware.co.th,50000.0,15,21,1,2022-07-07,1
+394,C00394,"Golden Engineering Co., Ltd.",0137986321066,Contractor,Surat Thani,South,045-304-877,info@goldenengineering2.co.th,710000.0,60,10,1,2024-04-18,1
+395,C00395,"Sombat Home Mart Co., Ltd.",0105376576921,Retail,Bangkok,Central,02-603-8867,info@sombathomemart.co.th,270000.0,0,6,1,2025-07-05,1
+396,C00396,Siam Technic Limited Partnership,0301053365141,Contractor,Songkhla,South,033-404-888,sales@siamtechnic.co.th,1510000.0,30,13,1,2021-04-12,1
+397,C00397,Rattana Hardware Trading Limited Partnership,0407984409711,Wholesale,Songkhla,South,041-320-166,account@rattanahardwaretra.co.th,1430000.0,90,4,1,2025-04-26,1
+398,C00398,"Chaiyo Hardware Co., Ltd.",0354043370099,Retail,Phuket,South,059-672-819,account@chaiyohardware2.co.th,230000.0,0,5,1,2020-02-28,1
+399,C00399,"Nakhon Materials Co., Ltd.",0577542786569,Wholesale,Phitsanulok,North,084-240-6452,info@nakhonmaterials.co.th,3900000.0,90,18,2,2018-12-14,1
+400,C00400,Saeng Thong Construction Shop Limited Partnership,0601618808197,Retail,Chonburi,East,088-780-3698,purchase@saengthongconstruc3.co.th,260000.0,15,19,1,2019-04-24,1

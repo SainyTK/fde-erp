@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@source "./page.tsx";
+@source "./check-email/page.tsx";
+@source "./verify-email/page.tsx";
+@source "../src/components/auth/AuthForm.tsx";
+@source "../src/components/auth/AuthShell.tsx";
+@source "../src/components/guide/TestModeGuide.tsx";
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  margin: 0;
+  background: #f5f6f3;
+  color: #1d2924;
+  font-family: Arial, Helvetica, sans-serif;
+}
