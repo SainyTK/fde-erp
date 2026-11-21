@@ -13,7 +13,7 @@ Read `README.md` first for what the app does and who may use each area.
 
 ## Security model
 
-- Permissions live in the database. Every table has row level security and no grants to `anon` or `authenticated`.
+- Permissions live in the database. Every table has row level security and no grants to `anon` or `authenticated`, except the salary columns of `employees`, which the `employee_salary_read` policy limits to your own row, or every row for HR.
 - New features add a security definer function that starts with an access check (`erp_actor`, `sales_team`, `accounting_can_read` and similar), revoke it from `public, anon, authenticated`, and grant execute to `authenticated`.
 - Hiding a button is never the permission; the function must refuse the call.
 - Money is calculated in SQL. Any function that creates a financial document posts its journal entry in the same transaction.
